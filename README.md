@@ -1,5 +1,6 @@
 # University of Washington NeuroAI Seminar
 Welcome to NeuroAI-UW! We are reading papers published in recent Top AI Conferences!
+
 Thanks Ryan Vogt and Kun Su for being the Student Organizers.
 ## 2020 Summer Schedule
 |    Date        | Paper | Keywords | Presenter | Presentation Link |
