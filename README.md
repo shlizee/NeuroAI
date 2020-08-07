@@ -1,8 +1,16 @@
 # University of Washington NeuroAI Seminar
-Welcome to NeuroAI-UW! We are reading papers published in recent Top AI Conferences!
+
+Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
+
+
+Meeting are currently held virtually (2020 Summer \& Fall). Contact us if you would like to join!
+
+## 2020 Summer Schedule
+We are reading papers published in recent Top AI Conferences (CVPR 2020, ICML 2020)!
 
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](https://scholar.google.com/citations?user=x4NWf_YAAAAJ&hl=en) for being the Student Organizers.
-## 2020 Summer Schedule
+ 
+
 |    Date        | Paper | Keywords | Presenter | Presentation Link |
 |----------------|-----------|----------|------------|---------|
 | 7/30/2020 | [Improving the Gating Mechanism of Recurrent Neural Networks](https://proceedings.icml.cc/static/paper_files/icml/2020/5650-Paper.pdf) | RNN | [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) | [Google Slides](https://docs.google.com/presentation/d/196lcrl9bOWiq_usIpaQvHjqE3SAxcAUxs9swZSvs0Ak/edit?usp=sharing) |
@@ -23,3 +31,4 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 |           | TBD | | Yang Zheng | TBD |
 
 ## 2020 Autumn Schedule
+
