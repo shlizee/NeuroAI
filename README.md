@@ -1,8 +1,8 @@
+<img src="neuroAIlogo.png" width="500" title="NeuroAI Logo">
+
 # University of Washington NeuroAI Seminar
 
 Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
-
-<img src="neuroAIlogo.png" width="300" title="NeuroAI Logo">
 
 Meeting are currently held virtually (Summer \& Fall 2020). Contact us if you would like to join!
 
