@@ -1,4 +1,4 @@
-<img src="neuroAIlogo.png" width="500" title="NeuroAI Logo">
+<img src="neuroAIlogo.png" width="450" title="NeuroAI Logo">
 
 # University of Washington NeuroAI Seminar
 
