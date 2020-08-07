@@ -1,9 +1,9 @@
 # University of Washington NeuroAI Seminar
 
 Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
+![NeuroAI Logo](NeuroAI.png)
 
-
-Meeting are currently held virtually (2020 Summer \& Fall). Contact us if you would like to join!
+Meeting are currently held virtually (Summer \& Fall 2020). Contact us if you would like to join!
 
 ## 2020 Summer Schedule
 We are reading papers published in recent Top AI Conferences (CVPR 2020, ICML 2020)!
