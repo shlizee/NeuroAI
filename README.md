@@ -11,8 +11,7 @@ Welcome to NeuroAI-UW! We are reading papers published in recent Top AI Conferen
 |           | [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Disentangling_and_Unifying_Graph_Convolutions_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)| Graph, Skeleton | Rahul Biswas | TBD |
 | 8/20/2020 | [Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules](https://proceedings.icml.cc/static/paper_files/icml/2020/1698-Paper.pdf)| RNN | Jingyuan Li | TBD |
 |           | [Do RNN and LSTM have Long Memory](https://proceedings.icml.cc/static/paper_files/icml/2020/956-Paper.pdf)| RNN | Jimin Kim | TBD |
-| 8/27/2020 | [XtarNet: Learning to Extract Task-Adaptive Representation for Incremental 
-Few-Shot Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/6928-Paper.pdf)| Meta Learning | Kun Su | TBD |
+| 8/27/2020 | [XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/6928-Paper.pdf) | Meta Learning | Kun Su | TBD |
 |           | [Approximating Stacked and Bidirectional Recurrent Architectures with the Delayed Recurrent Neural Network](https://proceedings.icml.cc/static/paper_files/icml/2020/5744-Paper.pdf)| RNN | Saba Heravi | TBD |
 | 9/3/2020  | [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://proceedings.icml.cc/static/paper_files/icml/2020/2935-Paper.pdf)| RNN | Ryan Vogt | TBD |
 |           | [Deep Isometric Learning for Visual Recognition](https://arxiv.org/pdf/2006.16992.pdf) | Network Design | Jimin | TBD |
