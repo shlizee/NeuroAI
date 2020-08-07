@@ -16,9 +16,8 @@ Few-Shot Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/6928
 |           | [Approximating Stacked and Bidirectional Recurrent Architectures with the Delayed Recurrent Neural Network](https://proceedings.icml.cc/static/paper_files/icml/2020/5744-Paper.pdf)| RNN | Saba Heravi | TBD |
 | 9/3/2020  | [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://proceedings.icml.cc/static/paper_files/icml/2020/2935-Paper.pdf)| RNN | Ryan Vogt | TBD |
 |           | [Deep Isometric Learning for Visual Recognition](https://arxiv.org/pdf/2006.16992.pdf) | Network Design | Jimin | TBD |
-| 9/10/2020 | [Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf)| Weakly Supervised | TBD |
-|           | [Towards Global Explanations of Convolutional Neural Networks with Concept
-Attribution](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Towards_Global_Explanations_of_Convolutional_Neural_Networks_With_Concept_Attribution_CVPR_2020_paper.pdf) | Interpretability | Jingyuan Li | TBD |
+| 9/10/2020 | [Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf)| Weakly Supervised | Jinlin Xiang | TBD |
+|           | [Towards Global Explanations of Convolutional Neural Networks with Concept Attribution](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Towards_Global_Explanations_of_Convolutional_Neural_Networks_With_Concept_Attribution_CVPR_2020_paper.pdf) | Interpretability | Jingyuan Li | TBD |
 | 9/17/2020 | [Low-rank Compression of Neural Nets: Learning the Rank of Each Layer](https://openaccess.thecvf.com/content_CVPR_2020/papers/Idelbayev_Low-Rank_Compression_of_Neural_Nets_Learning_the_Rank_of_Each_CVPR_2020_paper.pdf)| Compression | Rahul Biswas | TBD |
 |           | TBD | | Yang Zheng | TBD |
 
