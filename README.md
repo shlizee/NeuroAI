@@ -19,8 +19,8 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 | 11/13/2020     | TBD |        |            |        |
 | 11/20/2020     | TBD |        |            |        |
 | 11/27/2020     | TBD |        |            |        |
-| 12/4/2020     | TBD |        |            |        |
-| 12/11/2020     | TBD |        |            |        |
+| 12/4/2020     | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |        |     Chuang Gan       |        |
+| 12/11/2020     | Research Video Updates |        |            |        |
 
 ## 2020 Summer Schedule
 We are reading papers published in recent Top AI Conferences (CVPR 2020, ICML 2020)!
