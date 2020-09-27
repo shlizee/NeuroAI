@@ -6,10 +6,24 @@ Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organiz
 
 Meeting are currently held virtually (Summer \& Fall 2020). Contact us if you would like to join!
 
+## 2020 Autumn Schedule
+Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
+|    Date        | Paper | Keywords | Presenter | Presentation Link |
+|----------------|-----------|----------|------------|---------|
+| 10/02/2020     | NA |    Organization    |            |        |
+| 10/09/2020     | TBD |        |            |        |
+| 10/16/2020     | TBD |        |            |        |
+| 10/23/2020     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |        |      Niru Maheswaranathan      |        |
+| 10/30/2020     | TBD |        |            |        |
+| 11/06/2020     | TBD |        |            |        |
+| 11/13/2020     | TBD |        |            |        |
+| 11/20/2020     | TBD |        |            |        |
+| 11/27/2020     | TBD |        |            |        |
+| 12/4/2020     | TBD |        |            |        |
+| 12/11/2020     | TBD |        |            |        |
+
 ## 2020 Summer Schedule
 We are reading papers published in recent Top AI Conferences (CVPR 2020, ICML 2020)!
-
-Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
  
 
 |    Date        | Paper | Keywords | Presenter | Presentation Link |
@@ -30,6 +44,4 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 |           | [Towards Global Explanations of Convolutional Neural Networks with Concept Attribution](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Towards_Global_Explanations_of_Convolutional_Neural_Networks_With_Concept_Attribution_CVPR_2020_paper.pdf) | Interpretability | Jingyuan Li | [Google Slides](https://docs.google.com/presentation/d/1t1bH1p8r79Oqnix-YISy1bGWFQUtR-IsH63x5S4wCVw/edit?usp=sharing) |
 | 9/17/2020 | [Low-rank Compression of Neural Nets: Learning the Rank of Each Layer](https://openaccess.thecvf.com/content_CVPR_2020/papers/Idelbayev_Low-Rank_Compression_of_Neural_Nets_Learning_the_Rank_of_Each_CVPR_2020_paper.pdf)| Compression | Rahul Biswas | [Google Slides](https://docs.google.com/presentation/d/125nmKFyltUohekqHHGuvN9h_svzr_x7L4ATYRoVYOlQ/edit?usp=sharing) |
 |           | [Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation](https://arxiv.org/pdf/2003.13830.pdf) | | Yang Zheng | [Google Slides](https://docs.google.com/presentation/d/1ojCGV8xvls5IXiLvisPX1HKm-vLguC-HR2cbEVBSlPY/edit?usp=sharing) |
-
-## 2020 Autumn Schedule
 
