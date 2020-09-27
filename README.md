@@ -8,19 +8,19 @@ Meeting are currently held virtually (Summer \& Fall 2020). Contact us if you wo
 
 ## 2020 Autumn Schedule
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
-|    Date        | Paper | Keywords | Presenter | Presentation Link |
-|----------------|-----------|----------|------------|---------|
-| 10/02/2020     | NA |    Organization    |            |        |
-| 10/09/2020     | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |        |            |        |
-| 10/16/2020     | [Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics](https://arxiv.org/abs/1905.12080) |        |            |        |
-| 10/23/2020     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |        |      Niru Maheswaranathan      |        |
-| 10/30/2020     | [Controllable Orthogonalization in Training DNNs](https://openaccess.thecvf.com/content_CVPR_2020/html/Huang_Controllable_Orthogonalization_in_Training_DNNs_CVPR_2020_paper.html) |        |            |        |
-| 11/06/2020     | [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html) |        |            |        |
-| 11/13/2020     | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons](https://arxiv.org/pdf/2006.14304.pdf) |        |            |        |
-| 11/20/2020     | [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477) |        |            |        |
+|    Date        | Paper | Keywords | Guest speaker | Presenter |Presentation Link |
+|----------------|-----------|----------|------------|---------|-------------|
+| 10/02/2020     | NA |    Organization    |            |        |           |
+| 10/09/2020     | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |        |      |      |        |
+| 10/16/2020     | [Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics](https://arxiv.org/abs/1905.12080) |        |     |       |        |
+| 10/23/2020     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |        |      [Niru Maheswaranathan](https://niru.dev/) |      |        |
+| 10/30/2020     | [Controllable Orthogonalization in Training DNNs](https://openaccess.thecvf.com/content_CVPR_2020/html/Huang_Controllable_Orthogonalization_in_Training_DNNs_CVPR_2020_paper.html) |        |       |     |        |
+| 11/06/2020     | [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html) |        |     |       |        |
+| 11/13/2020     | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons](https://arxiv.org/pdf/2006.14304.pdf) |        |      |      |        |
+| 11/20/2020     | [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477) |        |       |     |        |
 | 11/27/2020     | Thanksgiving Break - No meeting |        |            |        |
-| 12/4/2020     | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |        |     Chuang Gan       |        |
-| 12/11/2020     | Research Video Updates |        |            |        |
+| 12/4/2020     | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |        |     [Chuang Gan](http://people.csail.mit.edu/ganchuang/)       |        |       |
+| 12/11/2020     | Research Video Updates |        |            |        |     |
 
 ## 2020 Summer Schedule
 We are reading papers published in recent Top AI Conferences (CVPR 2020, ICML 2020)!
