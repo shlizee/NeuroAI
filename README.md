@@ -11,11 +11,11 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 |    Date        | Paper | Keywords | Guest speaker | Presenter |Presentation Link |
 |----------------|-----------|----------|------------|---------|-------------|
 | 10/02/2020     | NA |    Organization    |            |        |           |
-| 10/09/2020     | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |        |      |      |        |
+| 10/09/2020     |  [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html)|        |      |      |        |
 | 10/16/2020     | [Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics](https://arxiv.org/abs/1905.12080) |        |     |       |        |
 | 10/23/2020     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |        |      [Niru Maheswaranathan](https://niru.dev/) |      |        |
 | 10/30/2020     | [Controllable Orthogonalization in Training DNNs](https://openaccess.thecvf.com/content_CVPR_2020/html/Huang_Controllable_Orthogonalization_in_Training_DNNs_CVPR_2020_paper.html) |        |       |     |        |
-| 11/06/2020     | [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html) |        |     |       |        |
+| 11/06/2020     | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |        | [Christopher Cueva](https://scholar.google.com/citations?user=BxLgolsAAAAJ&hl=en)    |       |        |
 | 11/13/2020     | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons](https://arxiv.org/pdf/2006.14304.pdf) |      |   [Irina Higgins](https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en)   |      |        |
 | 11/20/2020     | [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477) |        |       |     |        |
 | 11/27/2020     | Thanksgiving Break - No meeting |        |            |        |
