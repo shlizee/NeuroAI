@@ -8,22 +8,22 @@ Meeting are currently held virtually (Summer \& Fall 2020). Contact us if you wo
 
 ## 2020 Autumn Schedule
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
-|    Date        | Paper | Guest speaker | Presenter |Presentation Link |
-|----------------|-----------|----------|------------|---------|
-| 10/02/2020     |    Organization    |            |        |           |
-| 10/09/2020     |  [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html)|        |      |      |        |
-|     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |    |            |        |           |
-| 10/16/2020     | [Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics](https://arxiv.org/abs/1905.12080) |     |       |        |
-|      | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |   |       |        |
-| 10/23/2020     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |      [Niru Maheswaranathan](https://niru.dev/) |      |        |
-| 10/30/2020     | [Rotational Dynamics Reduce Interference Between Sensory and Memory Represenatations](https://www.biorxiv.org/content/10.1101/641159v1) |    | |  |        |
-|     | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |        |        |       |
-| 11/06/2020     | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) | [Christopher Cueva](https://scholar.google.com/citations?user=BxLgolsAAAAJ&hl=en)    |       |    |
-| 11/13/2020     | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons](https://arxiv.org/pdf/2006.14304.pdf) |  [Irina Higgins](https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en)   |      |    |
-| 11/20/2020     | [Rotational Dynamics Reduce Interference Between Sensory and Memory Represenatations](https://www.biorxiv.org/content/10.1101/641159v1) | [Alexandra Libby](https://pni.princeton.edu/directory/alexandra-libby)      |     |    |
+|    Date        | Paper/Activity | Student Presenter |Presentation Link |
+|----------------|-----------|----------|------------|
+| 10/02/2020     |    Organizational Meeting    |            |        |
+| 10/09/2020     |  [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html)|        |      |      |
+|                | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |    |            |        |
+| 10/16/2020     | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons](https://arxiv.org/pdf/2006.14304.pdf) |     |       |
+|                | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |   |       |
+| 10/23/2020     | Guest Speaker: [Niru Maheswaranathan](https://niru.dev/) |      |        |
+| 10/30/2020     | [Rotational Dynamics Reduce Interference Between Sensory and Memory Represenatations](https://www.biorxiv.org/content/10.1101/641159v1) |    | |  |
+|                | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |        |        |
+| 11/06/2020     | Guest Speaker: [Christopher Cueva](https://scholar.google.com/citations?user=BxLgolsAAAAJ&hl=en)    |       |    |
+| 11/13/2020     | Guest Speaker:  [Irina Higgins](https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en)   |      |    |
+| 11/20/2020     | Guest Speaker: [Alexandra Libby](https://pni.princeton.edu/directory/alexandra-libby)      |     |
 | 11/27/2020     | Thanksgiving Break - No meeting |        |            |
-| 12/4/2020     | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |    [Chuang Gan](http://people.csail.mit.edu/ganchuang/)       |        | |
-| 12/11/2020     | Research Video Updates |        |            |        |
+| 12/4/2020      | Guest Speaker: [Chuang Gan](http://people.csail.mit.edu/ganchuang/)       |        |        |
+| 12/11/2020     | Research Video Updates |        |            |
 
 ## 2020 Summer Schedule
 We are reading papers published in recent Top AI Conferences (CVPR 2020, ICML 2020)!
