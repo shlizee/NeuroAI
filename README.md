@@ -17,7 +17,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 | 10/30/2020     | [Controllable Orthogonalization in Training DNNs](https://openaccess.thecvf.com/content_CVPR_2020/html/Huang_Controllable_Orthogonalization_in_Training_DNNs_CVPR_2020_paper.html) |        |       |     |        |
 | 11/06/2020     | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |        | [Christopher Cueva](https://scholar.google.com/citations?user=BxLgolsAAAAJ&hl=en)    |       |        |
 | 11/13/2020     | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons](https://arxiv.org/pdf/2006.14304.pdf) |      |   [Irina Higgins](https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en)   |      |        |
-| 11/20/2020     | [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477) |        |       |     |        |
+| 11/20/2020     | [Rotational Dynamics Reduce Interference Between Sensory and Memory Represenatations](https://www.biorxiv.org/content/10.1101/641159v1) |        | [Alexandra Libby](https://pni.princeton.edu/directory/alexandra-libby)      |     |        |
 | 11/27/2020     | Thanksgiving Break - No meeting |        |            |        |
 | 12/4/2020     | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |        |     [Chuang Gan](http://people.csail.mit.edu/ganchuang/)       |        |       |
 | 12/11/2020     | Research Video Updates |        |            |        |     |
