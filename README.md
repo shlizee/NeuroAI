@@ -9,7 +9,7 @@ Meeting are currently held virtually (Summer \& Fall 2020). Contact us if you wo
 ## 2020 Autumn Schedule
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
 |    Date        | Paper | Guest speaker | Presenter |Presentation Link |
-|----------------|-----------|----------|------------|---------|-------------|
+|----------------|-----------|----------|------------|---------|
 | 10/02/2020     |    Organization    |            |        |           |
 | 10/09/2020     |  [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html)|        |      |      |        |
 |     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |    |            |        |           |
