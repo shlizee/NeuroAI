@@ -12,7 +12,9 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 |----------------|-----------|----------|------------|---------|-------------|
 | 10/02/2020     | NA |    Organization    |            |        |           |
 | 10/09/2020     |  [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html)|        |      |      |        |
+|     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |    |            |        |           |
 | 10/16/2020     | [Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics](https://arxiv.org/abs/1905.12080) |        |     |       |        |
+|      | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |        |   |       |        |
 | 10/23/2020     | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |        |      [Niru Maheswaranathan](https://niru.dev/) |      |        |
 | 10/30/2020     | [Controllable Orthogonalization in Training DNNs](https://openaccess.thecvf.com/content_CVPR_2020/html/Huang_Controllable_Orthogonalization_in_Training_DNNs_CVPR_2020_paper.html) |        |       |     |        |
 | 11/06/2020     | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) |        | [Christopher Cueva](https://scholar.google.com/citations?user=BxLgolsAAAAJ&hl=en)    |       |        |
