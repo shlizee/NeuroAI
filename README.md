@@ -4,7 +4,8 @@
 
 Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
 
-Meeting are currently held virtually (Summer \& Fall 2020). Contact us if you would like to join!
+Meetings are currently held virtually (Summer \& Fall 2020). Contact us if you would like to join!
+UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 ## 2020 Autumn Schedule
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
