@@ -15,7 +15,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 | 10/09/2020     |  [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/xu19d.html)|    Yang Zheng, Rahul Biswas    |      |   
 |                | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |  Michael Nolan, Ben Francis  |            |       
 | 10/16/2020     | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons](https://arxiv.org/pdf/2006.14304.pdf) |  Jinlin Xiang, Ryan Vogt   |       |
-|                | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) | Jimin Kim, Trung Le  |       |
+|                | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) | Jimin Kim, Trung Le, David Babin  |       |
 | 10/23/2020     | **Guest Speaker**: [Niru Maheswaranathan](https://niru.dev/) <p align="center"><img src="https://niru.dev/static/19ceda96ba70017745fa94f3afae329a/49b36/profile.jpg" width="150"></p> |      |        |
 | 10/30/2020     | [Rotational Dynamics Reduce Interference Between Sensory and Memory Represenatations](https://www.biorxiv.org/content/10.1101/641159v1) |  Jingyuan Li, Saba Heravi  | |  |
 |                | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |    Kun Su, Xiulong Liu    |       |
