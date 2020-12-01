@@ -20,10 +20,11 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 | 10/30/2020     | [Rotational Dynamics Reduce Interference Between Sensory and Memory Represenatations](https://www.biorxiv.org/content/10.1101/641159v1) |  Jingyuan Li, Saba Heravi  | |  |
 |                | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |    Kun Su, Xiulong Liu    |       |
 | 11/06/2020     | **Guest Speaker**: [Christopher Cueva](https://scholar.google.com/citations?user=BxLgolsAAAAJ&hl=en) <p align="center"><img src="https://ctn.zuckermaninstitute.columbia.edu/sites/default/files/styles/cu_crop/public/private/cueva%2C%20chris.jpg?h=e69b1a4b&itok=AS7rP6YL" width="150"></p>    |       |    |
-| 11/13/2020     | **Guest Speaker**:  [Irina Higgins](https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en) <p align="center"><img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1487566092/pym6pxb9e4ijyp9gbzml.png" width="150"></p>  |      |    |
+| 11/13/2020     |  No meeting  |      |    |
 | 11/20/2020     | **Guest Speaker**: [Alexandra Libby](https://pni.princeton.edu/directory/alexandra-libby)  <p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEBgdOgSGU37A/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=6op57jrnsjrxPdBnCvupXEi2FINdnVFvKvPESlkBm74" width="150"></p>    |     |
 | 11/27/2020     | Thanksgiving Break - No meeting |        |            |
-| 12/4/2020      | **Guest Speaker**: [Chuang Gan](http://people.csail.mit.edu/ganchuang/)  <p align="center"><img src="http://people.csail.mit.edu/ganchuang/imgs/portrait.jpg" width="150"></p>     |        |        |
+| 12/4/2020      |**Guest Speaker 1**:  [Irina Higgins](https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en) <p align="center"><img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1487566092/pym6pxb9e4ijyp9gbzml.png" width="150"></p>|  |  |
+| 12/4/2020      | **Guest Speaker 2**: [Chuang Gan](http://people.csail.mit.edu/ganchuang/)  <p align="center"><img src="http://people.csail.mit.edu/ganchuang/imgs/portrait.jpg" width="150"></p>     |        |        |
 | 12/11/2020     | Research Video Updates |        |            |
 
 ## 2020 Summer Schedule
