@@ -7,8 +7,21 @@ Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organiz
 Meetings are currently held virtually (Summer \& Fall 2020, Winter 2021). Contact us if you would like to join!
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
+## 2021 Winter Schedule
+Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
+|    Date        | Paper/Activity | Student Presenter |Presentation Link |
+|----------------|-----------|----------|------------|
+| 01/08/2021     | Organizational Meeting |        |            |
+| 01/15/2021     |  |        |            |
+| 01/22/2021     |  |        |            |
+| 01/29/2021     |  |        |            |
+| 02/05/2021     |  |        |            |
+| 02/12/2021     |  |        |            |
+| 02/19/2021     |  |        |            |
+| 02/26/2021     |  |        |            |
+| 03/05/2021     |  |        |            |
+| 03/12/2021     | Research Video Updates |        |            |
 ## 2020 Autumn Schedule
-Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
 | 10/02/2020     |    Organizational Meeting    |            |        |
