@@ -4,7 +4,7 @@
 
 Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
 
-Meetings are currently held virtually (Summer \& Fall 2020). Contact us if you would like to join!
+Meetings are currently held virtually (Summer \& Fall 2020, Winter 2021). Contact us if you would like to join!
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 ## 2020 Autumn Schedule
@@ -16,15 +16,15 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and [Kun Su](h
 |                | [Universality and Individuality in recurrent networks](https://arxiv.org/abs/1907.08549) |  Michael Nolan, Ben Francis  |            |       
 | 10/16/2020     | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons](https://arxiv.org/pdf/2006.14304.pdf) |  Jinlin Xiang, Ryan Vogt   |       |
 |                | [Low-dimensional dynamics for working memory and time encoding](https://www.pnas.org/content/early/2020/08/27/1915984117) | Jimin Kim, Trung Le, David Babin  |       |
-| 10/23/2020     | **Guest Speaker**: [Niru Maheswaranathan](https://niru.dev/) <p align="center"><img src="https://niru.dev/static/19ceda96ba70017745fa94f3afae329a/49b36/profile.jpg" width="150"></p> |      |        |
+| 10/23/2020     | **Guest Speaker**: [Niru Maheswaranathan](https://niru.dev/) <p align="center"><img src="https://niru.dev/profile.png" width="150"></p> |      |        |
 | 10/30/2020     | [Rotational Dynamics Reduce Interference Between Sensory and Memory Represenatations](https://www.biorxiv.org/content/10.1101/641159v1) |  Jingyuan Li, Saba Heravi  | |  |
 |                | [Foley Music: Learning to Generate Music from Videos](https://arxiv.org/pdf/2007.10984.pdf) |    Kun Su, Xiulong Liu    |       |
 | 11/06/2020     | **Guest Speaker**: [Christopher Cueva](https://scholar.google.com/citations?user=BxLgolsAAAAJ&hl=en) <p align="center"><img src="https://ctn.zuckermaninstitute.columbia.edu/sites/default/files/styles/cu_crop/public/private/cueva%2C%20chris.jpg?h=e69b1a4b&itok=AS7rP6YL" width="150"></p>    |       |    |
 | 11/13/2020     |  No meeting  |      |    |
-| 11/20/2020     | **Guest Speaker**: [Alexandra Libby](https://pni.princeton.edu/directory/alexandra-libby)  <p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEBgdOgSGU37A/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=6op57jrnsjrxPdBnCvupXEi2FINdnVFvKvPESlkBm74" width="150"></p>    |     |
+| 11/20/2020     | **Guest Speaker**: [Alexandra Libby](https://pni.princeton.edu/directory/alexandra-libby)    |     |
 | 11/27/2020     | Thanksgiving Break - No meeting |        |            |
-| 12/4/2020      |**Guest Speaker 1**:  [Irina Higgins](https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en) <p align="center"><img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1487566092/pym6pxb9e4ijyp9gbzml.png" width="150"></p>|  |  |
-| 12/4/2020      | **Guest Speaker 2**: [Chuang Gan](http://people.csail.mit.edu/ganchuang/)  <p align="center"><img src="http://people.csail.mit.edu/ganchuang/imgs/portrait.jpg" width="150"></p>     |        |        |
+| 12/4/2020      |**Guest Speaker**:  [Irina Higgins](https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en) <p align="center"><img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1487566092/pym6pxb9e4ijyp9gbzml.png" width="150"></p>|  |  |
+| 12/4/2020      | **Guest Speaker**: [Chuang Gan](http://people.csail.mit.edu/ganchuang/)  <p align="center"><img src="http://people.csail.mit.edu/ganchuang/imgs/portrait.jpg" width="150"></p>     |        |        |
 | 12/11/2020     | Research Video Updates |        |            |
 
 ## 2020 Summer Schedule
