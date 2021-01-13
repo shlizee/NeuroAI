@@ -12,13 +12,14 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
 | 01/08/2021     | Organizational Meeting |        |            |
-| 01/15/2021     |  |        |            |
+| 01/15/2021     | [Graph Convolutional Reinforcement Learning](https://arxiv.org/pdf/1810.09202.pdf) |   Jinlin Xiang, Trung Le     |            |
+|                | [When Counterpoint Meets Chinese Folk Melody](https://papers.nips.cc/paper/2020/file/bae876e53dab654a3d9d9768b1b7b91a-Paper.pdf) | Haobo Zhang, Xiulong Liu, Kun Su |       |
 | 01/22/2021     |  |        |            |
 | 01/29/2021     |  |        |            |
 | 02/05/2021     |  |        |            |
 | 02/12/2021     |  |        |            |
 | 02/19/2021     |  |        |            |
-| 02/26/2021     |  |        |            |
+| 02/26/2021     | **Guest Speaker**: [Kathryn Hess Bellwald](https://people.epfl.ch/kathryn.hess) <p align="center"><img src="https://people.epfl.ch/private/common/photos/links/105396.jpg?ts=1610566961" width="150"></p>|        |            |
 | 03/05/2021     |  |        |            |
 | 03/12/2021     | Research Video Updates |        |            |
 ## 2020 Autumn Schedule
