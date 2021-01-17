@@ -14,8 +14,9 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 | 01/08/2021     | Organizational Meeting |        |            |
 | 01/15/2021     | [Graph Convolutional Reinforcement Learning](https://arxiv.org/pdf/1810.09202.pdf) |   Jinlin Xiang, Trung Le     |            |
 |                | [When Counterpoint Meets Chinese Folk Melody](https://papers.nips.cc/paper/2020/file/bae876e53dab654a3d9d9768b1b7b91a-Paper.pdf) | Haobo Zhang, Xiulong Liu, Kun Su |       |
-| 01/22/2021     |  |        |            |
-| 01/29/2021     |  |        |            |
+| 01/22/2021     |[Gradient Starvation: A Learning Proclivity in Neural Networks](https://arxiv.org/pdf/2011.09468.pdf)  |  Ryan Vogt, Yang Zheng      |            |
+|                |[Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) | Michael Nolan, Ben Francis, Rahul Biswas | | | 
+| 01/29/2021     | **Guest Speaker**: [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/) <p align="center"><img src="http://www2.ece.rochester.edu/~zduan/resource/ZhiyaoDuan2018_web.jpg" width="150"></p>  |        |            |
 | 02/05/2021     |  |        |            |
 | 02/12/2021     |  |        |            |
 | 02/19/2021     |  |        |            |
