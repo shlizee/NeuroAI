@@ -22,7 +22,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 | 02/19/2021     |  |        |            |
 | 02/26/2021     | **Guest Speaker**: [Kathryn Hess Bellwald](https://people.epfl.ch/kathryn.hess) <p align="center"><img src="https://people.epfl.ch/private/common/photos/links/105396.jpg?ts=1610566961" width="150"></p>|        |            |
 | 03/05/2021     | **Guest Speaker**: [Wenrui Zhang](https://scholar.google.com/citations?hl=en&user=Eod1ZQUAAAAJ&view_op=list_works&sortby=pubdate) <p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Eod1ZQUAAAAJ&citpid=1" width="150"></p>|        |            |
-| 03/12/2021     | Research Video Updates |        |            |
+| 03/12/2021     | **Guest Speaker**: [Mohammad Pezeshki](https://mohammadpz.github.io/) <p align="center"><img src="https://mohammadpz.github.io/Mohammad_files/photo.png" width="150"></p>|        |            |
 ## 2020 Autumn Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
