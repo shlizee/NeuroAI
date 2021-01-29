@@ -17,7 +17,8 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 | 01/22/2021     |[Gradient Starvation: A Learning Proclivity in Neural Networks](https://arxiv.org/pdf/2011.09468.pdf)  |  Ryan Vogt, Yang Zheng      |            |
 |                |[Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) | Michael Nolan, Ben Francis, Rahul Biswas | | | 
 | 01/29/2021     | **Guest Speaker**: [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/) <p align="center"><img src="http://www2.ece.rochester.edu/~zduan/resource/ZhiyaoDuan2018_web.jpg" width="150"></p>  |        |            |
-| 02/05/2021     |  |        |            |
+| 02/05/2021     |[Temporal Spike Sequence Learning via Backpropagation for Deep Spiking Neural Networks](https://proceedings.neurips.cc/paper/2020/file/8bdb5058376143fa358981954e7626b8-Paper.pdf)  |    Jingyuan Li, Saba Heravi, Yetao Chen    |            |
+|                |[Improved protein structure prediction using potentials from deep learning](https://www.nature.com/articles/s41586-019-1923-7) | Chris Yin, Jamie Park, Jimin Kim | |
 | 02/12/2021     |  |        |            |
 | 02/19/2021     |  |        |            |
 | 02/26/2021     | **Guest Speaker**: [Kathryn Hess Bellwald](https://people.epfl.ch/kathryn.hess) <p align="center"><img src="https://people.epfl.ch/private/common/photos/links/105396.jpg?ts=1610566961" width="150"></p>|        |            |
