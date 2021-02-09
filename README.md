@@ -19,7 +19,8 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 | 01/29/2021     | **Guest Speaker**: [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/) <p align="center"><img src="http://www2.ece.rochester.edu/~zduan/resource/ZhiyaoDuan2018_web.jpg" width="150"></p>  |        |            |
 | 02/05/2021     |[Temporal Spike Sequence Learning via Backpropagation for Deep Spiking Neural Networks](https://proceedings.neurips.cc/paper/2020/file/8bdb5058376143fa358981954e7626b8-Paper.pdf)  |    Jingyuan Li, Saba Heravi, Yetao Chen    |            |
 |                |[Improved protein structure prediction using potentials from deep learning](https://www.nature.com/articles/s41586-019-1923-7) | Chris Yin, Jamie Park, Jimin Kim | |
-| 02/12/2021     |  |        |            |
+| 02/12/2021     |[Unsupervised Sound Separation Using Mixture Invariant Training](https://proceedings.neurips.cc/paper/2020/file/28538c394c36e4d5ea8ff5ad60562a93-Paper.pdf)  |  Kun Su, Jinlin Xiang, Zhichao Lei |            |
+|                |[Deep Reinforcement Learning and its neuroscientific implications](https://www.sciencedirect.com/science/article/pii/S0896627320304682?casa_token=AglEbspNXSgAAAAA:mVqXGqsAJ2Bo80PBAhkBr2fhExZjtgqfoI2xCREN_4nQHTyovwZc1IoJgDiiLKflL6bETi-n1w) | Ben Francis, Trung Le, Saba Heravi | |
 | 02/19/2021     |  |        |            |
 | 02/26/2021     | **Guest Speaker**: [Kathryn Hess Bellwald](https://people.epfl.ch/kathryn.hess) <p align="center"><img src="https://people.epfl.ch/private/common/photos/links/105396.jpg?ts=1610566961" width="150"></p>|        |            |
 | 03/05/2021     | **Guest Speaker**: [Wenrui Zhang](https://scholar.google.com/citations?hl=en&user=Eod1ZQUAAAAJ&view_op=list_works&sortby=pubdate) <p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Eod1ZQUAAAAJ&citpid=1" width="150"></p>|        |            |
