@@ -4,11 +4,27 @@
 
 Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
 
-Meetings are currently held virtually (Summer \& Fall 2020, Winter 2021). Contact us if you would like to join!
+Meetings are currently held virtually (Summer \& Fall 2020, Winter \& Spring 2021). Contact us if you would like to join!
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
-## 2021 Winter Schedule
+## 2021 Spring Schedule
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
+|    Date        | Paper/Activity | Student Presenter |Presentation Link |
+|----------------|-----------|----------|------------|
+| 04/02/2021     | [Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking](https://www.biorxiv.org/content/10.1101/2020.08.20.259705v1.full.pdf) | Chuanmudi Qin, Xiulong Liu, Kun Su |      |
+|                | [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3) | Ben Francis, Felix Tse, Trung Le | |
+| 04/09/2021     | [Understanding self-supervised Learning Dynamics without Contrastive Pairs](https://arxiv.org/pdf/2102.06810.pdf) | Jingyuan Li, Ayesha Ghaffar, Zidan Luo | |
+|                | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf)  | Jingxi Yu, Xiangyu Gu, Yang Zheng |  |
+| 04/16/2021     | **Guest Speaker**: [Anqi Wu](https://sites.google.com/site/anqiwuresearch/)<p align="center"><img src="https://lh5.googleusercontent.com/XWzM_m07lTqVCh4oARsmaHH4UQ2CLLqkR04A31EDGbjsiR1JHzsSFOkWP8s-k-0tQi4_K6Q4ZH9Vq9Z1IhZlAUUh0__QzJsvTUYI4RCOaR9P-cNN=w1280" width="150"></p> | | |
+| 04/23/2021     |   TBD   |      |      |
+| 04/30/2021     |   TBD   |      |      |
+| 05/07/2021     |   TBD   |      |      |
+| 05/14/2021     |   TBD   |      |      |
+| 05/21/2021     |   TBD   |      |      |
+| 05/28/2021     |   TBD   |      |      |
+| 06/04/2021     |   TBD   |      |      |
+
+## 2021 Winter Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
 | 01/08/2021     | Organizational Meeting |        |            |
