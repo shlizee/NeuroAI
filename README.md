@@ -15,14 +15,14 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 |                | [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3) | Ben Francis, Felix Tse, Trung Le | |
 | 04/09/2021     | [Understanding self-supervised Learning Dynamics without Contrastive Pairs](https://arxiv.org/pdf/2102.06810.pdf) | Jingyuan Li, Ayesha Ghaffar, Zidan Luo | |
 |                | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf)  | Jingxi Yu, Xiangyu Gu, Yang Zheng |  |
-| 04/16/2021     | **Guest Speaker**: [Anqi Wu](https://sites.google.com/site/anqiwuresearch/)<p align="center"><img src="https://lh5.googleusercontent.com/XWzM_m07lTqVCh4oARsmaHH4UQ2CLLqkR04A31EDGbjsiR1JHzsSFOkWP8s-k-0tQi4_K6Q4ZH9Vq9Z1IhZlAUUh0__QzJsvTUYI4RCOaR9P-cNN=w1280" width="150"></p> | | |
+| 04/16/2021     | **Guest Speaker**: [Anqi Wu](https://sites.google.com/site/anqiwuresearch/)<p align="center"><img src="https://lh6.googleusercontent.com/gg1aQJ25DOc_DQvY6X-AcKCA9itoPfMvMGM1aWJVjALyTXC8B5qxRpiqyy2Irv-IjY1O1RQPAFOknWLTUCES86EWzAZbVBYA-H1PEW1uw3jsjgfR=w1280" width="150"></p> | | |
 | 04/23/2021     |   TBD   |      |      |
 | 04/30/2021     |   TBD   |      |      |
 | 05/07/2021     |   TBD   |      |      |
 | 05/14/2021     |   TBD   |      |      |
 | 05/21/2021     |   TBD   |      |      |
 | 05/28/2021     |   TBD   |      |      |
-| 06/04/2021     |   TBD   |      |      |
+| 06/04/2021     |   **Guest Speaker** [Yuandong Tian](https://yuandong-tian.com/)<p align="center"><img src="https://yuandong-tian.com/imgs/bio.png" width="150"></p>    |      |      |
 
 ## 2021 Winter Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
