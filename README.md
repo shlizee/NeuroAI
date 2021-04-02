@@ -14,7 +14,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 | 04/02/2021     | [Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking](https://www.biorxiv.org/content/10.1101/2020.08.20.259705v1.full.pdf) | Chuanmudi Qin, Xiulong Liu, Kun Su |      |
 |                | [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3) | Ben Francis, Felix Tse, Trung Le | |
 | 04/09/2021     | [Understanding self-supervised Learning Dynamics without Contrastive Pairs](https://arxiv.org/pdf/2102.06810.pdf) | Jingyuan Li, Ayesha Ghaffar, Zidan Luo | |
-|                | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf)  | Jingxi Yu, Xiangyu Gu, Yang Zheng |  |
+|                | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf)  | Jingxi Yu, Xiangyu Gao, Yang Zheng |  |
 | 04/16/2021     | **Guest Speaker**: [Anqi Wu](https://sites.google.com/site/anqiwuresearch/) (Columbia University)<p align="center"><img src="https://ctn.zuckermaninstitute.columbia.edu/sites/default/files/styles/cu_crop/public/private/anqiwu.jpeg?itok=DQvf4iD0" width="150"></p> | | |
 | 04/23/2021     |   TBD   |      |      |
 | 04/30/2021     |   TBD   |      |      |
