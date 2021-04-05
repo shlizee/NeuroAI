@@ -17,7 +17,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 |                | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf)  | Jingxi Yu, Xiangyu Gao, Yang Zheng |  |
 | 04/16/2021     | **Guest Speaker**: [Anqi Wu](https://sites.google.com/site/anqiwuresearch/) (Columbia University)<p align="center"><img src="https://ctn.zuckermaninstitute.columbia.edu/sites/default/files/styles/cu_crop/public/private/anqiwu.jpeg?itok=DQvf4iD0" width="150"></p> | | |
 | 04/23/2021     |   TBD   |      |      |
-| 04/30/2021     |   TBD   |      |      |
+| 04/30/2021     | **Guest Speaker**: [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/) (The Chinese University of Hong Kong)<p align="center"><img src="http://bzhou.ie.cuhk.edu.hk/image/bolei_2021.jpg" width="150"></p>   |      |      |
 | 05/07/2021     |   TBD   |      |      |
 | 05/14/2021     |   TBD   |      |      |
 | 05/21/2021     |   TBD   |      |      |
