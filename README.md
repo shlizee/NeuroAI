@@ -21,7 +21,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 | 05/07/2021     |   TBD   |      |      |
 | 05/14/2021     |   TBD   |      |      |
 | 05/21/2021     |   TBD   |      |      |
-| 05/28/2021     |   TBD   |      |      |
+| 05/28/2021     |   **Guest Speaker**: [Omid G. Sani](https://omidsani.com/) (USC)<p align="center"><img src="https://omidsani.com/img/profile.webp" width="150"></p>   |      |      |
 | 06/04/2021     |   **Guest Speaker**: [Yuandong Tian](https://yuandong-tian.com/) (Facebook)<p align="center"><img src="https://yuandong-tian.com/imgs/bio.png" width="150"></p>    |      |      |
 
 ## 2021 Winter Schedule
