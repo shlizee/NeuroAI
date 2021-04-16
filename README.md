@@ -16,11 +16,12 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 | 04/09/2021     | [Understanding self-supervised Learning Dynamics without Contrastive Pairs](https://arxiv.org/pdf/2102.06810.pdf) | Jingyuan Li, Ayesha Ghaffar, Zidan Luo | |
 |                | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf)  | Jingxi Yu, Xiangyu Gao, Yang Zheng |  |
 | 04/16/2021     | **Guest Speaker**: [Anqi Wu](https://sites.google.com/site/anqiwuresearch/) (Columbia University)<p align="center"><img src="https://ctn.zuckermaninstitute.columbia.edu/sites/default/files/styles/cu_crop/public/private/anqiwu.jpeg?itok=DQvf4iD0" width="150"></p> | | |
-| 04/23/2021     |   TBD   |      |      |
+| 04/23/2021     |   [Non-reversible Gaussian processes for identifying latent dynamical structure in neural data](https://proceedings.neurips.cc/paper/2020/file/6d79e030371e47e6231337805a7a2685-Paper.pdf)   |  Raul Biswas, Ryan Vogt, Michael Nolan    |      |
+|                |   [Modeling behaviorally relevant neural dynamics with a novel preferential subspace identification](https://www.nature.com/articles/s41593-020-00733-0)   | Saba Heravi, Astitwa Lathe, Yiren Wang, Jimin Kim     |      |
 | 04/30/2021     | **Guest Speaker**: [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/) (The Chinese University of Hong Kong)<p align="center"><img src="http://bzhou.ie.cuhk.edu.hk/image/bolei_2021.jpg" width="150"></p>   |      |      |
 | 05/07/2021     |   TBD   |      |      |
 | 05/14/2021     |   TBD   |      |      |
-| 05/21/2021     |   TBD   |      |      |
+| 05/21/2021     |   **Guest Speaker**: [Virginia Rutten](https://scholar.google.com/citations?user=DDrMMRoAAAAJ&hl=en) (UCL)<p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=DDrMMRoAAAAJ&citpid=8" width="150"></p>   |      |      |
 | 05/28/2021     |   **Guest Speaker**: [Omid G. Sani](https://omidsani.com/) (USC)<p align="center"><img src="https://omidsani.com/img/profile.webp" width="150"></p>   |      |      |
 | 06/04/2021     |   **Guest Speaker**: [Yuandong Tian](https://yuandong-tian.com/) (Facebook)<p align="center"><img src="https://yuandong-tian.com/imgs/bio.png" width="150"></p>    |      |      |
 
