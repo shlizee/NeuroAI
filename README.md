@@ -19,7 +19,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and
 | 04/23/2021     |   [Non-reversible Gaussian processes for identifying latent dynamical structure in neural data](https://proceedings.neurips.cc/paper/2020/file/6d79e030371e47e6231337805a7a2685-Paper.pdf)   |  Raul Biswas, Ryan Vogt, Michael Nolan    |      |
 |                |   [Modeling behaviorally relevant neural dynamics with a novel preferential subspace identification](https://www.nature.com/articles/s41593-020-00733-0)   | Saba Heravi, Astitwa Lathe, Yiren Wang, Jimin Kim     |      |
 | 04/30/2021     | **Guest Speaker**: [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/) (The Chinese University of Hong Kong)<p align="center"><img src="http://bzhou.ie.cuhk.edu.hk/image/bolei_2021.jpg" width="150"></p>   |      |      |
-| 05/07/2021     |   TBD   |      |      |
+| 05/07/2021     |   New Papers Discussion   |      |      |
 | 05/14/2021     |   TBD   |      |      |
 | 05/21/2021     |   **Guest Speaker**: [Virginia Rutten](https://scholar.google.com/citations?user=DDrMMRoAAAAJ&hl=en) (UCL)<p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=DDrMMRoAAAAJ&citpid=8" width="150"></p>   |      |      |
 | 05/28/2021     |   **Guest Speaker**: [Omid G. Sani](https://omidsani.com/) (USC)<p align="center"><img src="https://omidsani.com/img/profile.webp" width="150"></p>   |      |      |
