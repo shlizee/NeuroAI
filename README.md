@@ -4,14 +4,20 @@
 
 Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
 
-Meetings are currently held virtually (Summer \& Fall 2020, Winter \& Spring 2021). Contact us if you would like to join!
+Meetings are currently held virtually (Summer \& Fall 2020, Winter, Spring \& Fall 2021). Contact us if you would like to join!
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
 
+## 2021 Fall Schedule
+Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jingyuan Li, Trung Le, Syed M. Aun Haider and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
+|    Date        | Paper/Activity | Student Presenter |Presentation Link |
+|----------------|-----------|----------|------------|
+| 10/08/2021     | Organizational Meeting |     |     |
+| 10/15/2021     | [Representation learning for neural population activity with Neural Data Transformers](https://arxiv.org/pdf/2108.01210.pdf) | Rahul Biswas, Jimin kim | |
+|                | Deep Reinforcement Learning for Neural Control | | |
 
 ## 2021 Spring Schedule
-Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jimin Kim and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
 | 04/02/2021     | [Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking](https://www.biorxiv.org/content/10.1101/2020.08.20.259705v1.full.pdf) | Chuanmudi Qin, Xiulong Liu, Kun Su |      |
