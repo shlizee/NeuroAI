@@ -15,7 +15,9 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jingyuan Li, 
 |----------------|-----------|----------|------------|
 | 10/08/2021     | Organizational Meeting |     |     |
 | 10/15/2021     | [Representation learning for neural population activity with Neural Data Transformers](https://arxiv.org/pdf/2108.01210.pdf) | Rahul Biswas, Jimin kim | |
-|                | Deep Reinforcement Learning for Neural Control | | |
+|                | [Deep Reinforcement Learning for Neural Control](https://arxiv.org/abs/2006.07352) | Ryan Vogt, Jinlin Xiang| |
+| 10/22/2021     | [A unified framework of online learning algorithms for training recurrent neural networks](https://arxiv.org/pdf/1907.02649.pdf) | Harsha Vardhan, James Hazelden | |
+|                | [Lyapunov-Guided Embedding for Hyper-parameter Selection in Recurrent Neural Networks]() | Kun Su, Michael Nolan | |
 
 ## 2021 Spring Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
