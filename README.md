@@ -18,6 +18,8 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jingyuan Li, 
 |                | [Deep Reinforcement Learning for Neural Control](https://arxiv.org/abs/2006.07352) | Ryan Vogt, Jinlin Xiang| |
 | 10/22/2021     | [A unified framework of online learning algorithms for training recurrent neural networks](https://arxiv.org/pdf/1907.02649.pdf) | Harsha Vardhan, James Hazelden | |
 |                | [Lyapunov-Guided Embedding for Hyper-parameter Selection in Recurrent Neural Networks]() | Kun Su, Michael Nolan | |
+| 11/12/2021     | **Guest Speaker**: [Chethan Pandarinath](https://bme.gatech.edu/bme/faculty/Chethan-Pandarinath) (Georgia Tech)<p align="center"><img src="https://bme.gatech.edu/bme/sites/default/files/styles/faculty_pic/public/pictures/Pandarinath-Chethan-2019-v.jpg?itok=wA85w3W3" width="150"></p> | | |
+|                | **Guest Speaker**: [Joel Ye](https://joel99.github.io/) (CMU)<p align="center"><img src="https://joel99.github.io/static/8602188a52a084f67ecc209c770cff73/0e329/pfp_small.jpg" width="150"></p> | | |
 
 ## 2021 Spring Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
