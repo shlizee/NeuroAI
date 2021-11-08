@@ -20,9 +20,12 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jingyuan Li, 
 |                | [Lyapunov-Guided Embedding for Hyper-parameter Selection in Recurrent Neural Networks]() | Kun Su, Michael Nolan | |
 | 10/29/2021     | [AL-SAR: Active Learning for Skeleton-based Action Recognition]() | Xiulong Liu, Syed M. Aun Haider | |
 |                | [How does it sound?]() | Jingyuan Li, Trung Le | |
+| 11/05/2021     | **Guest Speaker** [Xiulong liu](https://scholar.google.com/citations?user=e5GPhrMAAAAJ&hl=zh-CN) (UW)<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHkzWTdEb3GSg/profile-displayphoto-shrink_400_400/0/1596409598417?e=1642032000&v=beta&t=0gJsZUDN0b55c0y_nIA8SUVulzuNAStuljy75y4_Tpk" width="150"></p> | | |
+|                | **Guest Speaker** [Jingyuan Li](https://scholar.google.com/citations?user=BEhp15IAAAAJ&hl=zh-CN) (UW)<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFmnQP4Oll6hQ/profile-displayphoto-shrink_400_400/0/1632202410983?e=1642032000&v=beta&t=E9BS2-XvWS9Fq4F2DYTORawmvpi8Jz7LE-sqaVZpOzg" width="150"></p> | | |
 | 11/12/2021     | **Guest Speaker**: [Chethan Pandarinath](https://bme.gatech.edu/bme/faculty/Chethan-Pandarinath) (Georgia Tech)<p align="center"><img src="https://bme.gatech.edu/bme/sites/default/files/styles/faculty_pic/public/pictures/Pandarinath-Chethan-2019-v.jpg?itok=wA85w3W3" width="150"></p> | | |
 |                | **Guest Speaker**: [Joel Ye](https://joel99.github.io/) (CMU)<p align="center"><img src="https://joel99.github.io/static/8602188a52a084f67ecc209c770cff73/0e329/pfp_small.jpg" width="150"></p> | | |
 | 12/03/2021     | **Guest Speaker**: [Cristina Savin](https://as.nyu.edu/content/nyu-as/as/faculty/cristina-savin.html) (NYU)<p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=muNtwgcAAAAJ&citpid=2" width="150"></p> | | |
+|                | **Guest Speaker**: Owen Marschall (NYU) <p align="center"><img src="https://static.wixstatic.com/media/5c072d_05eeb5764f0845f2b53e700a7dd8b392~mv2.jpg/v1/crop/x_33,y_0,w_711,h_923/fill/w_158,h_200,al_c,q_80,usm_0.66_1.00_0.01/FullSizeRender_edited.webp" width="150"></p> | | |
 
 ## 2021 Spring Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
@@ -49,7 +52,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jingyuan Li, 
 |                | [When Counterpoint Meets Chinese Folk Melody](https://papers.nips.cc/paper/2020/file/bae876e53dab654a3d9d9768b1b7b91a-Paper.pdf) | Haobo Zhang, Xiulong Liu, Kun Su |       |
 | 01/22/2021     |[Gradient Starvation: A Learning Proclivity in Neural Networks](https://arxiv.org/pdf/2011.09468.pdf)  |  Ryan Vogt, Yang Zheng      |            |
 |                |[Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) | Michael Nolan, Ben Francis, Rahul Biswas | | | 
-| 01/29/2021     | **Guest Speaker**: [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/) <p align="center"><img src="http://www2.ece.rochester.edu/~zduan/resource/ZhiyaoDuan2018_web.jpg" width="150"></p>  |        |            |
+| 01/29/2021     | **Guest Speaker**: [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/) <p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pJmAoJ4AAAAJ&citpid=3" width="150"></p>  |        |            |
 | 02/05/2021     |[Temporal Spike Sequence Learning via Backpropagation for Deep Spiking Neural Networks](https://proceedings.neurips.cc/paper/2020/file/8bdb5058376143fa358981954e7626b8-Paper.pdf)  |    Jingyuan Li, Saba Heravi, Yetao Chen    |            |
 |                |[Improved protein structure prediction using potentials from deep learning](https://www.nature.com/articles/s41586-019-1923-7) | Chris Yin, Jamie Park, Jimin Kim | |
 | 02/12/2021     |[Unsupervised Sound Separation Using Mixture Invariant Training](https://proceedings.neurips.cc/paper/2020/file/28538c394c36e4d5ea8ff5ad60562a93-Paper.pdf)  |  Kun Su, Jinlin Xiang, Zhichao Lei |            |
