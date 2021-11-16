@@ -24,6 +24,9 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jingyuan Li, 
 |                | **Guest Speaker** [Jingyuan Li](https://scholar.google.com/citations?user=BEhp15IAAAAJ&hl=zh-CN) (UW)<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFmnQP4Oll6hQ/profile-displayphoto-shrink_400_400/0/1632202410983?e=1642032000&v=beta&t=E9BS2-XvWS9Fq4F2DYTORawmvpi8Jz7LE-sqaVZpOzg" width="150"></p> | | |
 | 11/12/2021     | **Guest Speaker**: [Chethan Pandarinath](https://bme.gatech.edu/bme/faculty/Chethan-Pandarinath) (Georgia Tech)<p align="center"><img src="https://bme.gatech.edu/bme/sites/default/files/styles/faculty_pic/public/pictures/Pandarinath-Chethan-2019-v.jpg?itok=wA85w3W3" width="150"></p> | | |
 |                | **Guest Speaker**: [Joel Ye](https://joel99.github.io/) (CMU)<p align="center"><img src="https://joel99.github.io/static/8602188a52a084f67ecc209c770cff73/0e329/pfp_small.jpg" width="150"></p> | | |
+| 11/19/2021     | [Local Plasticity rules can learn deep representations using self-supervised contrastive predictions](https://arxiv.org/abs/2010.08262) | Yang Zheng, Saba Heravi | | |
+|                | [AI Choreographer: Music Conditioned 3D Dance Generation with AIST++](https://arxiv.org/abs/2101.08779) | Xiangyu Gao, Yonghun Lee | | |
+| 11/26/2021     | Thanksgiving Break | | |
 | 12/03/2021     | **Guest Speaker**: [Cristina Savin](https://as.nyu.edu/content/nyu-as/as/faculty/cristina-savin.html) (NYU)<p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=muNtwgcAAAAJ&citpid=2" width="150"></p> | | |
 |                | **Guest Speaker**: Owen Marschall (NYU) <p align="center"><img src="https://static.wixstatic.com/media/5c072d_05eeb5764f0845f2b53e700a7dd8b392~mv2.jpg/v1/crop/x_33,y_0,w_711,h_923/fill/w_158,h_200,al_c,q_80,usm_0.66_1.00_0.01/FullSizeRender_edited.webp" width="150"></p> | | |
 
