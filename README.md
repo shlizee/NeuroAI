@@ -8,9 +8,22 @@ Meetings are currently held virtually (Summer \& Fall 2020, Winter, Spring \& Fa
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
-
+## 2022 Winter Schedule
+Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan Li for being the Student Organizers.
+|    Date        | Paper/Activity | Student Presenter |Presentation Link |
+|----------------|-----------|----------|------------|
+| 01/14/2022     | Organizational Meeting |     |     |
+| 01/21/2022     | [Where is all the nonlinearity: flexible nonlinear modeling of behaviorally relevant neural dynamics using recurrent neural networks](https://www.biorxiv.org/content/biorxiv/early/2021/09/06/2021.09.03.458628.full.pdf?__cf_chl_jschl_tk__=9y9bBSKDp3wPH6C_ZfnTHiVED4A5wU6TyMCal9VgQeI-1642564872-0-gaNycGzNCP0) | Michael Nolan, Saba Heravi, Ryan Vogt, Zekun Chen | |
+|                | [Drop, Swap, and Generate: A Self-Supervised Approach for Generating Neural Activity](https://arxiv.org/pdf/2111.02338.pdf) | Kun Su, Xiangyu Gang, Pamel Kang, Jingyuan Li | |
+| 01/28/2022     | [Neural Active Learning with Performance Guarantees](https://arxiv.org/pdf/2106.03243.pdf) | Xiulong Liu, James Hazelden, Jinlin Xiang, Liem Vu | |
+|                | [Dynamic Causal Modelling Revisited](https://www.sciencedirect.com/science/article/pii/S1053811917301568) | Rahul Biswas, Astitwa Sarthak Lathe, Trung Le | |
+| 02/04/2022     | A3D3 Guest Speaker | | |
+| 02/11/2022     | | | |
+| 02/18/2022     | | | |
+| 02/25/2022     | | | |
+| 03/04/2022     | A3D3 Guest Speaker | | |
+| 03/11/2022     | | | |
 ## 2021 Fall Schedule
-Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt), Jingyuan Li, Trung Le, Syed M. Aun Haider and [Kun Su](https://kun-su.netlify.app) for being the Student Organizers.
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
 | 10/08/2021     | Organizational Meeting |     |     |
