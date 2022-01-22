@@ -18,7 +18,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 | 01/28/2022     | [Neural Active Learning with Performance Guarantees](https://arxiv.org/pdf/2106.03243.pdf) | Xiulong Liu, James Hazelden, Jinlin Xiang, Liem Vu | |
 |                | [Dynamic Causal Modelling Revisited](https://www.sciencedirect.com/science/article/pii/S1053811917301568) | Rahul Biswas, Astitwa Sarthak Lathe, Trung Le | |
 | 02/04/2022     | A3D3 Guest Speaker | | |
-| 02/11/2022     | | | |
+| 02/11/2022     | **Guest Speaker** [Eva L. Dyer](https://dyerlab.gatech.edu/people/pi-profile/) (Gatech)<p align="center"><img src="https://dyerlab.gatech.edu/files/2016/05/EvaDyerFavorite-HI-RES-4x5Portrait-240x300.jpg" width="150"></p>  | | |
 | 02/18/2022     | | | |
 | 02/25/2022     | | | |
 | 03/04/2022     | A3D3 Guest Speaker | | |
