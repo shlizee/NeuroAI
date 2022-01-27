@@ -22,7 +22,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 | 02/18/2022     | | | |
 | 02/25/2022     | | | |
 | 03/04/2022     | A3D3 Guest Speaker | | |
-| 03/11/2022     | | | |
+| 03/11/2022     | **Guest Speaker** [Maryam Shanechi](https://nseip.usc.edu/people/) (USC)<p align="center"><img src="https://nseip.usc.edu/files/2018/02/92113-1nymvix.jpg" width="150"></p>| | |
 ## 2021 Fall Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
