@@ -17,12 +17,15 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 |                | [Drop, Swap, and Generate: A Self-Supervised Approach for Generating Neural Activity](https://arxiv.org/pdf/2111.02338.pdf) | Kun Su, Xiangyu Gang, Pamel Kang, Jingyuan Li | |
 | 01/28/2022     | [Neural Active Learning with Performance Guarantees](https://arxiv.org/pdf/2106.03243.pdf) | Xiulong Liu, James Hazelden, Jinlin Xiang, Liem Vu | |
 |                | [Dynamic Causal Modelling Revisited](https://www.sciencedirect.com/science/article/pii/S1053811917301568) | Rahul Biswas, Astitwa Sarthak Lathe, Trung Le | |
-| 02/04/2022     | A3D3 Guest Speaker | | |
+| 02/04/2022     | **A3D3 NeuroAI**| | |
+|                |OpenLabCluster Demo |Jingyuan Li (UW ECE), Moishe Kesselman (UW CSE)| |
+|                |Detection of Sleep Spindles with FPGA| Xiaohan Liu (UW ECE), Aidan Yokuda (UW ECE)| |
+|                |Somatotopic representation of texture sensation in the primary somatosensory and motor cortices of mice| Megan Lipton (Purdue Neurobiology)| |
 | 02/11/2022     | **Guest Speaker** [Eva L. Dyer](https://dyerlab.gatech.edu/people/pi-profile/) (Gatech)<p align="center"><img src="https://dyerlab.gatech.edu/files/2016/05/EvaDyerFavorite-HI-RES-4x5Portrait-240x300.jpg" width="150"></p>  | | |
 | 02/18/2022     | | | |
 | 02/25/2022     | | | |
 | 03/04/2022     | A3D3 Guest Speaker | | |
-| 03/11/2022     | **Guest Speaker** [Maryam Shanechi](https://nseip.usc.edu/people/) (USC)<p align="center"><img src="https://nseip.usc.edu/files/2018/02/92113-1nymvix.jpg" width="150"></p>| | |
+| 03/11/2022     | | | |
 ## 2021 Fall Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
