@@ -22,7 +22,8 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 |                |Detection of Sleep Spindles with FPGA| Xiaohan Liu (UW ECE), Aidan Yokuda (UW ECE)| |
 |                |Somatotopic representation of texture sensation in the primary somatosensory and motor cortices of mice| Megan Lipton (Purdue Neurobiology)| |
 | 02/11/2022     | **Guest Speaker** [Eva L. Dyer](https://dyerlab.gatech.edu/people/pi-profile/) (Gatech)<p align="center"><img src="https://dyerlab.gatech.edu/files/2016/05/EvaDyerFavorite-HI-RES-4x5Portrait-240x300.jpg" width="150"></p>  | | |
-| 02/18/2022     | | | |
+| 02/18/2022     |[Stabilizing Dynamical Systems via Policy Gradient Methods](https://arxiv.org/abs/2110.06418) |Jimin Kim, Mingfei Chen, Aidan Yokuda | |
+|                | [AugMax: Adversarial Composition of Random Augmentations for Robust Training](https://arxiv.org/abs/2110.13771) | Yang Zheng, Xiaohan Liu, Yujia Liu, Xinyue Sun| |
 | 02/25/2022     | | | |
 | 03/04/2022     | A3D3 Guest Speaker | | |
 | 03/11/2022     | | | |
