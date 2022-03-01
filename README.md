@@ -28,6 +28,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 | 03/04/2022     | **A3D3 NeuroAI** | | |
 |                | Optimizing brain stimulation using deep learning | Seungbin Park (Purdue) | |
 |                | Quantifying the effect of stimulation protocols on rapid network connectivity inference | Tomohiro Ouchi (UW) | |
+|                | Modeling Neural Population Activity with Spatiotemporal Transformer | Trung Le (UW) | |
 | 03/11/2022     | | | |
 ## 2021 Fall Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
