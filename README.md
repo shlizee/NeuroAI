@@ -29,7 +29,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 |                | Optimizing brain stimulation using deep learning | Seungbin Park (Purdue) | |
 |                | Quantifying the effect of stimulation protocols on rapid network connectivity inference | Tomohiro Ouchi (UW) | |
 |                | Modeling Neural Population Activity with Spatiotemporal Transformer | Trung Le (UW) | |
-| 03/11/2022     | | | |
+| 03/11/2022     |  **Guest Speaker**: [Omid G. Sani](https://omidsani.com/) (USC)<p align="center"><img src="https://omidsani.com/img/profile.webp" width="150"></p>| | |
 ## 2021 Fall Schedule
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
