@@ -12,6 +12,20 @@ New: We will be positing some of the invited visitors talks in <a href="https://
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan Li for being the Student Organizers.
 |    Date        | Paper/Activity | Student Presenter |Presentation Link |
 |----------------|-----------|----------|------------|
+| 04/01/2022     | Organizational & Intro Meeting |     |     |
+| 04/08/2022     | TBA |     |     |
+| 04/15/2022     | TBA |     |     |
+| 04/22/2022     | TBA |     |     |
+| 04/29/2022     | TBA |     |     |
+| 05/06/2022     | TBA |     |     |
+| 05/13/2022     | TBA |     |     |
+| 05/20/2022     | TBA |     |     |
+| 05/27/2022     | TBA |     |     |
+| 06/03/2022     | TBA |     |     |
+| 06/10/2022     | TBA |     |     |
+## 2022 Winter Schedule
+|    Date        | Paper/Activity | Student Presenter |Presentation Link |
+|----------------|-----------|----------|------------|
 | 01/14/2022     | Organizational Meeting |     |     |
 | 01/21/2022     | [Where is all the nonlinearity: flexible nonlinear modeling of behaviorally relevant neural dynamics using recurrent neural networks](https://www.biorxiv.org/content/biorxiv/early/2021/09/06/2021.09.03.458628.full.pdf?__cf_chl_jschl_tk__=9y9bBSKDp3wPH6C_ZfnTHiVED4A5wU6TyMCal9VgQeI-1642564872-0-gaNycGzNCP0) | Michael Nolan, Saba Heravi, Ryan Vogt, Zekun Chen | |
 |                | [Drop, Swap, and Generate: A Self-Supervised Approach for Generating Neural Activity](https://arxiv.org/pdf/2111.02338.pdf) | Kun Su, Xiangyu Gang, Pamel Kang, Jingyuan Li | |
