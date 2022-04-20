@@ -17,7 +17,8 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 |                | [The Causal-Neural Connection: Expressiveness, Learnability, and Inference](https://arxiv.org/abs/2107.00793) | Rahul Biswas, Shirui Chen, Xiulong Liu |
 | 04/15/2022     | [ILQR-VAE : Control-base Learning of Input Driven Dynamics with Application To Neural Data](https://www.google.com/url?q=https://openreview.net/pdf?id%3DwRODLDHaAiW&sa=D&source=editors&ust=1649180753528118&usg=AOvVaw0JX_E5TNtKgSp882GqQfot) | Pamel Kang, Trung Le, Jingyuan Li    |
 |                | [Neural Active Learning with Performance Guarantees](https://www.google.com/url?q=https://proceedings.neurips.cc/paper/2021/file/3dcaf04c357c577a857f3ffadc555f9b-Paper.pdf&sa=D&source=editors&ust=1649180753528261&usg=AOvVaw0ZeJ91Ndgrq4dqjGBRazlb) | Zhuochun Liu, Zhongshu Meng, Jinlin Xiang    |
-| 04/22/2022     | TBA |     |
+| 04/22/2022     | [Inferring Latent Dynamics Underlying Neural Population aCTIVITY VIA neural Differential Equations](http://proceedings.mlr.press/v139/kim21h.html) | Michael Nolan, Saba H, Destiny Alvarado    |
+|                | [Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph](https://arxiv.org/abs/2202.12307) | Yang Zheng, Anoop Mysore Nataraja, Malek Itani |
 | 04/29/2022     | TBA |     |
 | 05/06/2022     | A3D3 Speakers |     |
 | 05/13/2022     | TBA |     |
