@@ -19,7 +19,7 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 |                | [Neural Active Learning with Performance Guarantees](https://www.google.com/url?q=https://proceedings.neurips.cc/paper/2021/file/3dcaf04c357c577a857f3ffadc555f9b-Paper.pdf&sa=D&source=editors&ust=1649180753528261&usg=AOvVaw0ZeJ91Ndgrq4dqjGBRazlb) | Zhuochun Liu, Zhongshu Meng, Jinlin Xiang    |
 | 04/22/2022     | [Inferring Latent Dynamics Underlying Neural Population aCTIVITY VIA neural Differential Equations](http://proceedings.mlr.press/v139/kim21h.html) | Michael Nolan, Saba H, Destiny Alvarado    |
 |                | [Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph](https://arxiv.org/abs/2202.12307) | Yang Zheng, Anoop Mysore Nataraja, Malek Itani |
-| 04/29/2022     | TBA |     |
+| 04/29/2022     | **Guest Speaker** [Kevin Xia](https://springo.github.io/) (Columbia University)<p align="center"><img src="https://springo.github.io/images/id_photo_square.jpg" width="150"></p> |     |
 | 05/06/2022     | A3D3 Speakers |     |
 | 05/13/2022     | TBA |     |
 | 05/20/2022     | TBA |     |
