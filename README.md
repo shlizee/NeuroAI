@@ -23,9 +23,9 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 | 05/06/2022     | A3D3 Speakers |     |
 | 05/13/2022     | TBA |     |
 | 05/20/2022     | TBA |     |
-| 05/27/2022     | TBA |     |
+| 05/27/2022     | **Guest Speaker** [Claudio Gentile](https://sites.google.com/view/cgentile) (Google)<p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0SiZNDEAAAAJ&citpid=2" width="150"></p> |     |
 | 06/03/2022     | A3D3 Speakers |     |
-| 06/10/2022     | TBA |     |
+| 06/10/2022     | **Guest Speaker** [Marine Schimel](https://hennequin-lab.github.io/people/schimel/) (Cambridge)<p align="center"><img src="https://hennequin-lab.github.io/people/marine.png" width="150"></p> |     |
 ## 2022 Winter Schedule
 |    Date        | Paper/Activity | Student Presenter |
 |----------------|-----------|----------|
