@@ -20,8 +20,9 @@ Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan L
 | 04/22/2022     | [Inferring Latent Dynamics Underlying Neural Population aCTIVITY VIA neural Differential Equations](http://proceedings.mlr.press/v139/kim21h.html) | Michael Nolan, Saba H, Destiny Alvarado    |
 |                | [Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph](https://arxiv.org/abs/2202.12307) | Yang Zheng, Anoop Mysore Nataraja, Malek Itani |
 | 04/29/2022     | **Guest Speaker** [Kevin Xia](https://springo.github.io/) (Columbia University)<p align="center"><img src="https://springo.github.io/images/id_photo_square.jpg" width="150"></p> |     |
-| 05/06/2022     | A3D3 Speakers |     |
-| 05/13/2022     | TBA |     |
+| 05/06/2022     | [Towards Biologically Plausible Convolutional Networks](https://arxiv.org/abs/2106.13031) |  Xiangyu Gao, Yujia Liu, Xinyue Sun   |
+|                | [Deep Reinforcement Learning with Spiking Q-Learning](https://arxiv.org/abs/2201.09754) |  Jingwei Xu, Miranda Anderson, Jimin Kim   |
+| 05/13/2022     | A3D3 Speakers |     |
 | 05/20/2022     | TBA |     |
 | 05/27/2022     | **Guest Speaker** [Claudio Gentile](https://sites.google.com/view/cgentile) (Google)<p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0SiZNDEAAAAJ&citpid=2" width="150"></p> |     |
 | 06/03/2022     | A3D3 Speakers |     |
