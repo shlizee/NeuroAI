@@ -4,10 +4,28 @@
 
 Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
 
-Meetings are currently held virtually (Summer \& Fall 2020, Winter, Spring \& Fall 2021, Winter, Spring 2022). Contact us if you would like to join!
+Meetings are currently held virtually (Summer \& Fall 2020, Winter, Spring \& Fall 2021, Winter, Spring \& Fall 2022). Contact us if you would like to join!
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
+## 2022 Fall Schedule
+Thanks Mingfei and Jingyuan for being Student Organizer.
+|    Date        | Paper/Activity | Student Presenter |
+|----------------|-----------|----------|
+| 10/07/2022     | Organizational & Intro Meeting on Energy Based Models |     |
+| 10/14/2022     |[A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) | James Hazelden, Saba Heravi, Andrew Line, Yang Zheng.   |
+| 10/21/2022     |[The surprising effectiveness of representation learning for visual imitation](https://arxiv.org/abs/2112.01511) |  TBD  |
+| 10/28/2022     |[Self-supervised learning of pretext-invariant representations](https://arxiv.org/abs/1912.01991) | TBD    |
+|                |[Momentum contrast for unsupervised visual representation learning](https://arxiv.org/abs/1911.05722) | TBD |
+| 11/04/2022     |[Ctrl: Closed-loop transcription to an LDR via minimaxing rate reduction](https://arxiv.org/abs/2111.06636) |  TBD   |
+|                |[Barlow twins: Self-supervised learning via redundancy reduction](https://arxiv.org/abs/2103.03230) |  TBD   |
+| 11/11/2022     |[Understanding the world through action](https://arxiv.org/abs/2110.12543) |  TBD   |
+|                |[Deep hierarchical planning from pixels](https://arxiv.org/abs/2206.04114 ) | TBD |
+| 11/18/2022     |*Guest Speaker*|     |
+| 11/25/2022     |Break Thanksgiving |     |
+| 12/02/2022     |Break NeurIPS |     |
+| 12/09/2022     |*Guest Speaker* |     |
+
 ## 2022 Spring Schedule
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan Li for being the Student Organizers.
 |    Date        | Paper/Activity | Student Presenter |
