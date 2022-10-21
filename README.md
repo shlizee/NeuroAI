@@ -14,13 +14,12 @@ Thanks Mingfei and Jingyuan for being Student Organizer.
 |----------------|-----------|----------|
 | 10/07/2022     | Organizational & Intro Meeting on Energy Based Models |     |
 | 10/14/2022     |[A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) | James Hazelden, Saba Heravi, Andrew Line, Yang Zheng.   |
-| 10/21/2022     |[The surprising effectiveness of representation learning for visual imitation](https://arxiv.org/abs/2112.01511) |  TBD  |
-| 10/28/2022     |[Self-supervised learning of pretext-invariant representations](https://arxiv.org/abs/1912.01991) | TBD    |
-|                |[Momentum contrast for unsupervised visual representation learning](https://arxiv.org/abs/1911.05722) | TBD |
-| 11/04/2022     |[Ctrl: Closed-loop transcription to an LDR via minimaxing rate reduction](https://arxiv.org/abs/2111.06636) |  TBD   |
-|                |[Barlow twins: Self-supervised learning via redundancy reduction](https://arxiv.org/abs/2103.03230) |  TBD   |
-| 11/11/2022     |[Understanding the world through action](https://arxiv.org/abs/2110.12543) |  TBD   |
-|                |[Deep hierarchical planning from pixels](https://arxiv.org/abs/2206.04114 ) | TBD |
+| 10/21/2022     |[The surprising effectiveness of representation learning for visual imitation](https://arxiv.org/abs/2112.01511) | Hanna Lee,  Jimin Kim |
+| 10/28/2022     |[Self-supervised learning of pretext-invariant representations](https://arxiv.org/abs/1912.01991) | Jinlin Xiang,  Madison Bravo   |
+|                |[Barlow twins: Self-supervised learning via redundancy reduction](https://arxiv.org/abs/2103.03230) | Trung Le, Raphael Bechtold, Ryan V |
+| 11/04/2022     |[Understanding the world through action](https://arxiv.org/abs/2110.12543) | Ze Xia (Lucas) Wang, Saba Heravi  |
+|                |[Deep hierarchical planning from pixels](https://arxiv.org/abs/2206.04114 ) | Ruihong Yin, Pinyi Wang, Xiulong Liu  |
+| 11/11/2022     |Break Veterans Day | |
 | 11/18/2022     |*Guest Speaker*|     |
 | 11/25/2022     |Break Thanksgiving |     |
 | 12/02/2022     |Break NeurIPS |     |
