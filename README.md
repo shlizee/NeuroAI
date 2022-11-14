@@ -20,7 +20,7 @@ Thanks Mingfei and Jingyuan for being Student Organizer.
 | 11/04/2022     |[Understanding the world through action](https://arxiv.org/abs/2110.12543) | Ze Xia (Lucas) Wang, Saba Heravi  |
 |                |[Deep hierarchical planning from pixels](https://arxiv.org/abs/2206.04114 ) | Ruihong Yin, Pinyi Wang, Xiulong Liu  |
 | 11/11/2022     |Break Veterans Day | |
-| 11/18/2022     |*Guest Speaker*[Yubei Chen](https://redwood.berkeley.edu/people/yubei-chen/) (New York University)<p align="center"><img src="https://redwood.berkeley.edu/wp-content/uploads/2018/01/yubei_chen_profile_pic-345x345.jpg" width="150"></p> |     |
+| 11/18/2022     |**Guest Speaker** [Yubei Chen](https://redwood.berkeley.edu/people/yubei-chen/) (New York University)<p align="center"><img src="https://redwood.berkeley.edu/wp-content/uploads/2018/01/yubei_chen_profile_pic-345x345.jpg" width="150"></p> |     |
 | 11/25/2022     |Break Thanksgiving |     |
 | 12/02/2022     |Break NeurIPS |     |
 | 12/09/2022     |*Guest Speaker* |     |
