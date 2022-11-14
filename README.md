@@ -24,6 +24,7 @@ Thanks Mingfei and Jingyuan for being Student Organizer.
 | 11/25/2022     |Break Thanksgiving |     |
 | 12/02/2022     |Break NeurIPS |     |
 | 12/09/2022     |*Guest Speaker* |     |
+| 12/16/2022     |*Guest Speaker* |     |
 
 ## 2022 Spring Schedule
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan Li for being the Student Organizers.
