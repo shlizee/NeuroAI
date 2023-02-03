@@ -9,7 +9,7 @@ UW students can enroll into designated courses: AMATH 500L or EE 598F to partici
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
 ## 2023 Winter Schedule
-In this quarter, we will prepare and present tutorials on 5 critical related topics to NeuroAI.
+In this quarter, we will prepare and present tutorials on 5 critical topics related to NeuroAI.
 |   Topic       | Student Presenter |
 |----------------|----------|
 | Deep Learning Programming Tools for NeuroAI    |Sadjyot Gangolli, Mingfei Chen, Xiulong Liu, Hanna Lee |
