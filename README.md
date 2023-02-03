@@ -8,6 +8,17 @@ Meetings are currently held virtually (Summer \& Fall 2020, Winter, Spring \& Fa
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
+## 2023 Winter Schedule
+In this quarter, we will prepare and present tutorials on 5 critical related topics to NeuroAI.
+|   Topic       | Student Presenter |
+|----------------|----------|
+| Deep Learning Programming Tools for NeuroAI    |Sadjyot Gangolli, Mingfei Chen, Xiulong Liu, Hanna Lee |
+| Design, Programing and Publishing OpenSource Code for NeuroAI    |Jimin Kim, Kun Su, Pranav Kamath, Jingyuan Li|
+| Data and Benchmarking Practices in NeuroAI  |Jinlin Xiang, Trung Le, Ayush Singh |
+| Neuro, AI and NeuroAI Ethics |Rahul Biswas, Ryan Vogt, Xinwen Liu |
+| Hardware Acceleration for DL and NeuroAI| Yang Zheng, James Hazelden, Saba Heravi |
+
+
 ## 2022 Fall Schedule
 Thanks Mingfei and Jingyuan for being Student Organizer.
 |    Date        | Paper/Activity | Student Presenter |
@@ -23,8 +34,9 @@ Thanks Mingfei and Jingyuan for being Student Organizer.
 | 11/18/2022     |**Guest Speaker** [Yubei Chen](https://redwood.berkeley.edu/people/yubei-chen/) (New York University)<p align="center"><img src="https://redwood.berkeley.edu/wp-content/uploads/2018/01/yubei_chen_profile_pic-345x345.jpg" width="150"></p> |     |
 | 11/25/2022     |Break Thanksgiving |     |
 | 12/02/2022     |Break NeurIPS |     |
-| 12/09/2022     |*Guest Speaker* |     |
-| 12/16/2022     |*Guest Speaker* |     |
+| 12/09/2022     |NeurIPS Updates |     |
+| 12/16/2022     |**Guest Speaker** [Kuan Fang](http://kuanfang.github.io/) (UC Berkeley)<p align="center"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BZBkjNYAAAAJ&citpid=9" width="150"></p>  |     |
+
 
 ## 2022 Spring Schedule
 Thanks [Ryan Vogt](https://amath.washington.edu/people/ryan-vogt) and Jingyuan Li for being the Student Organizers.
