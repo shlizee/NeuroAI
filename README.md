@@ -8,6 +8,18 @@ Meetings are currently held virtually (Summer \& Fall 2020, Winter, Spring \& Fa
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
+
+## 2023 Spring Schedule
+In this quarter, we will prepare and present tutorials on 6 critical topics related to NeuroAI.
+|   Topic       | Student Presenter |
+|----------------|----------|
+| Deep Learning Programming Tools for NeuroAI    |Astitwas S. Lathe, Yang Zheng, Wenxuan Hu |
+| Design, Programing and Publishing OpenSource Code for NeuroAI    |Jimin Kim, Jinlin Xiang, Trung Le |
+| Data and Benchmarking Practices in NeuroAI  | Ayush Singh, Chunqing Cao |
+| Neuro, AI and NeuroAI Ethics |Rahul Biswas, Atharva Mattam, James Hazelden |
+| Hardware Acceleration for DL and NeuroAI| Saba Heravi, Ruihong Yin, Carter Rowell |
+| LLMs and Their Relation to NeuroAI | Xiulong Liu, Mingfei Chen, Jingyuan Li |
+
 ## 2023 Winter Schedule
 In this quarter, we will prepare and present tutorials on 5 critical topics related to NeuroAI.
 |   Topic       | Student Presenter |
