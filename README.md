@@ -4,10 +4,40 @@
 
 Welcome to NeuroAI-UW seminar, a regular weekly seminar for UW community organized by [NeuroAI Shlizerman Lab](http://faculty.washington.edu/shlizee/).
 
-Meetings are currently held virtually (Summer \& Fall 2020, Winter, Spring \& Fall 2021, Winter, Spring \& Fall 2022). Contact us if you would like to join!
+Meetings are currently held hybridly (Summer \& Fall 2020, Winter \& Spring \& Fall 2021-2023, Winter 2024). Contact us if you would like to join!
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
+
+## 2024 Winter Schedule
+Thanks Jinlin, Mingfei and Saba for being Student Organizers.
+In this quarter, we will prepare seminars on 3 critical topics related to NeuroAI and LLMs (Large Language Models). The seminar will be held every Friday 11:00am - 12:00pm (PST) hybridly.
+|   Topic       | Student Presenter |
+|----------------|----------|
+| LLM-Enhanced Neural Decoding |Mingfei Chen, Jingyuan Li, Frenda Lin, Trung Le, Kun Su, Yang Zheng |
+| Domain Adaptation of Pre-trained LLM for Research    |Jinlin Xiang, Jimin Kim, Xiulong Liu, Eunki Chung, Rahul Biswas |
+| Interpretation of Neural Networks in LLMs  | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
+
+|    Date        | Paper/Activity | Student Presenter / Speaker|
+|----------------|-----------|----------|
+| 1/12/2024     | Organizational & Intro Meeting on NeuroAI and LLMs |     |
+| 1/19/2024    |[Decoding Speech Perception from Non-Invasive Brain Recordings](https://www.nature.com/articles/s42256-023-00714-5) |Mingfei Chen, Jingyuan Li, Frenda Lin, Trung Le, Kun Su, Yang Zheng |
+| 1/26/2024     |[Large Language Models Struggle to Learn Long-Tail Knowledge]( https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf) |Jinlin Xiang, Jimin Kim, Xiulong Liu, Eunki Chung, Rahul Biswas |
+| 2/2/2024     |[Hopfield Networks is All You Needs](https://arxiv.org/abs/2008.02217) | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
+| 2/9/2024     | Guest Speakers: TBA |     |
+| 2/16/2024     | Guest Speakers: TBA |     |
+| 2/23/2024     | Guest Speakers: TBA |     |
+
+## 2023 Fall Schedule
+In this quarter, we will continue to present tutorials and organize discussions on 6 critical topics related to NeuroAI.
+|   Topic       | Student Presenter |
+|----------------|----------|
+| Deep Learning Programming Tools for NeuroAI    |Yang Zheng, Jazlin Taylor |
+| Design, Programing and Publishing OpenSource Code for NeuroAI    |Jinlin Xiang, Trung Le, Jimin Kim |
+| Data and Benchmarking Practices in NeuroAI  |Amisha Himanshu Somaiya, Trung Le |
+| Neuro, AI and NeuroAI Ethics |Rahul Biswas, Jingyuan Li |
+| Hardware Acceleration for DL and NeuroAI|Saba Heravi, James Hazelden |
+| LLMs and Their Relation to NeuroAI |Mingfei Chen, Xiulong Liu, Pavan Kumar Anand |
 
 ## 2023 Spring Schedule
 In this quarter, we will prepare and present tutorials on 6 critical topics related to NeuroAI.
