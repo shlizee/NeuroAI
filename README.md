@@ -11,6 +11,7 @@ New: We will be positing some of the invited visitors talks in <a href="https://
 
 ## 2024 Winter Schedule
 Thanks Jinlin, Mingfei and Saba for being Student Organizers.
+
 In this quarter, we will prepare seminars on 3 critical topics related to NeuroAI and LLMs (Large Language Models). The seminar will be held every Friday 11:00am - 12:00pm (PST) hybridly.
 |   Topic       | Student Presenter |
 |----------------|----------|
@@ -18,15 +19,15 @@ In this quarter, we will prepare seminars on 3 critical topics related to NeuroA
 | Domain Adaptation of Pre-trained LLM for Research    |Jinlin Xiang, Jimin Kim, Xiulong Liu, Eunki Chung, Rahul Biswas |
 | Interpretation of Neural Networks in LLMs  | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
 
-|    Date        | Paper/Activity | Student Presenter / Speaker|
+|    Date        | Paper/Activity | Student Presenter|
 |----------------|-----------|----------|
 | 1/12/2024     | Organizational & Intro Meeting on NeuroAI and LLMs |     |
 | 1/19/2024    |[Decoding Speech Perception from Non-Invasive Brain Recordings](https://www.nature.com/articles/s42256-023-00714-5) |Mingfei Chen, Jingyuan Li, Frenda Lin, Trung Le, Kun Su, Yang Zheng |
 | 1/26/2024     |[Large Language Models Struggle to Learn Long-Tail Knowledge]( https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf) |Jinlin Xiang, Jimin Kim, Xiulong Liu, Eunki Chung, Rahul Biswas |
-| 2/2/2024     |[Hopfield Networks is All You Needs](https://arxiv.org/abs/2008.02217) | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
-| 2/9/2024     | Guest Speakers: TBA |     |
-| 2/16/2024     | Guest Speakers: TBA |     |
-| 2/23/2024     | Guest Speakers: TBA |     |
+| 2/02/2024     |[Hopfield Networks is All You Needs](https://arxiv.org/abs/2008.02217) | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
+| 2/09/2024     | Guest Speaker: TBA |     |
+| 2/16/2024     | Guest Speaker: TBA |     |
+| 2/23/2024     | Guest Speaker: TBA |     |
 
 ## 2023 Fall Schedule
 In this quarter, we will continue to present tutorials and organize discussions on 6 critical topics related to NeuroAI.
