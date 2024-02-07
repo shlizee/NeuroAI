@@ -25,7 +25,7 @@ In this quarter, we will prepare seminars on 3 critical topics related to NeuroA
 | 1/19/2024    |[Decoding Speech Perception from Non-Invasive Brain Recordings](https://www.nature.com/articles/s42256-023-00714-5) |Mingfei Chen, Jingyuan Li, Frenda Lin, Trung Le, Kun Su, Yang Zheng |
 | 1/26/2024     |[Large Language Models Struggle to Learn Long-Tail Knowledge]( https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf) |Jinlin Xiang, Jimin Kim, Xiulong Liu, Eunki Chung, Rahul Biswas |
 | 2/02/2024     |[Hopfield Networks is All You Needs](https://arxiv.org/abs/2008.02217) | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
-| 2/09/2024     | Guest Speaker: TBA |     |
+| 2/09/2024     |**Guest Speaker** [Jean-Rémi King](https://kingjr.github.io/) (École Normale Supérieure / Meta AI)<p align="center"><img src="https://kingjr.github.io/images/profile.png" width="150"></p> |     |
 | 2/16/2024     | Guest Speaker: TBA |     |
 | 2/23/2024     | Guest Speaker: TBA |     |
 
