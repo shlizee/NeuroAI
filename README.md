@@ -20,7 +20,7 @@ In this quarter, we will prepare seminars on 3 critical topics related to NeuroA
 | Interpretation of Neural Networks in LLMs  | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
 
 |    Date        | Paper/Activity | Student Presenter|
-|----------------|-----------|----------|
+|----------------|---------------------|----------|
 | 1/12/2024     | Organizational & Intro Meeting on NeuroAI and LLMs |     |
 | 1/19/2024    |[Decoding Speech Perception from Non-Invasive Brain Recordings](https://www.nature.com/articles/s42256-023-00714-5) |Mingfei Chen, Jingyuan Li, Frenda Lin, Trung Le, Kun Su, Yang Zheng |
 | 1/26/2024     |[Large Language Models Struggle to Learn Long-Tail Knowledge]( https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf) |Jinlin Xiang, Jimin Kim, Xiulong Liu, Eunki Chung, Rahul Biswas |
