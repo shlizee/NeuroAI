@@ -18,7 +18,7 @@ This quarter, we review impactful alternative architectures recently proposed in
 | 04/05/2024     | Organizational & Intro Meeting & Final Presentations on NeuroAI and LLMs (Team 3) | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
 | 04/12/2024     | [Energy Transformer](https://proceedings.neurips.cc/paper_files/paper/2023/hash/57a9b97477b67936298489e3c1417b0a-Abstract-Conference.html) | James Hazelden, Saba Heravi, Yang Zheng |
 | 04/19/2024     | State Space Models: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) & [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) | Victoria Pierce, Mingfei Chen, and Xiulong Liu |
-
+| 04/26/2024     | RNN Alternatives: [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048) & [Hierarchically Gated Recurrent Neural Network for Sequence Modeling](https://arxiv.org/abs/2311.04823)| Jinlin Xiang, Jesse Owens, and Jimin Kim |
 
 
 ## 2024 Winter Schedule
