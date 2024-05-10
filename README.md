@@ -19,7 +19,8 @@ This quarter, we review impactful alternative architectures recently proposed in
 | 04/12/2024     | [Energy Transformer](https://proceedings.neurips.cc/paper_files/paper/2023/hash/57a9b97477b67936298489e3c1417b0a-Abstract-Conference.html) | James Hazelden, Saba Heravi, Yang Zheng |
 | 04/19/2024     | State Space Models: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) & [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) | Victoria Pierce, Mingfei Chen, and Xiulong Liu |
 | 04/26/2024     | RNN Alternatives: [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048) & [Hierarchically Gated Recurrent Neural Network for Sequence Modeling](https://arxiv.org/abs/2311.04823)| Jinlin Xiang, Jesse Owens, and Jimin Kim |
-
+| 05/03/2024     | [MLP Mixer: An All MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) & [The Forward-Forward Algorithm](https://arxiv.org/abs/2212.13345) | Adithya Gowda Baragur, Seb Schwab, and Trung Le |
+| 05/10/2024     | [Building transformers from neurons and astrocytes](https://www.pnas.org/doi/epdf/10.1073/pnas.2219150120) & [NISQ QNN: Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) | Ian Quah, Sean Robert Gamer, and Jingyuan Li |
 
 ## 2024 Winter Schedule
 Thanks Jinlin, Mingfei and Saba for being Student Organizers.
