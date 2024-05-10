@@ -9,6 +9,19 @@ UW students can enroll into designated courses: AMATH 500L or EE 598F to partici
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
 
+## 2024 Spring Schedule
+This quarter, we review impactful alternative architectures recently proposed in the NeuroAI literature. The seminar is held every Friday from 11:00 am - noon PDT in a hybrid manner.
+
+|    Date        | Paper/Activity | Student Presenter|
+|----------------|---------------------|----------|
+| 03/29/2024     | Brainstorming Meeting & Final Presentations on NeuroAI and LLMs (Team 1, 2) | Mingfei Chen, Jingyuan Li, Frenda Lin, Trung Le, Kun Su, Yang Zheng, Jinlin Xiang, Jimin Kim, Xiulong Liu, Eunki Chung, Rahul Biswas |
+| 04/05/2024     | Organizational & Intro Meeting & Final Presentations on NeuroAI and LLMs (Team 3) | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
+| 04/12/2024     | [Energy Transformer](https://proceedings.neurips.cc/paper_files/paper/2023/hash/57a9b97477b67936298489e3c1417b0a-Abstract-Conference.html) | James Hazelden, Saba Heravi, Yang Zheng |
+| 04/19/2024     | State Space Models: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) & [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) | Victoria Pierce, Mingfei Chen, and Xiulong Liu |
+| 04/26/2024     | RNN Alternatives: [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048) & [Hierarchically Gated Recurrent Neural Network for Sequence Modeling](https://arxiv.org/abs/2311.04823)| Jinlin Xiang, Jesse Owens, and Jimin Kim |
+| 05/03/2024     | [MLP Mixer: An All MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) & [The Forward-Forward Algorithm](https://arxiv.org/abs/2212.13345) | Adithya Gowda Baragur, Seb Schwab, and Trung Le |
+| 05/10/2024     | [Building transformers from neurons and astrocytes](https://www.pnas.org/doi/epdf/10.1073/pnas.2219150120) & [NISQ QNN: Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) | Ian Quah, Sean Robert Gamer, and Jingyuan Li |
+
 ## 2024 Winter Schedule
 Thanks Jinlin, Mingfei and Saba for being Student Organizers.
 
@@ -22,7 +35,7 @@ In this quarter, we will prepare seminars on 3 critical topics related to NeuroA
 |    Date        | Paper/Activity | Student Presenter|
 |----------------|---------------------|----------|
 | 1/12/2024     | Organizational & Intro Meeting on NeuroAI and LLMs |     |
-| 1/19/2024    |[Decoding Speech Perception from Non-Invasive Brain Recordings](https://www.nature.com/articles/s42256-023-00714-5) |Mingfei Chen, Jingyuan Li, Frenda Lin, Trung Le, Kun Su, Yang Zheng |
+| 1/19/2024     |[Decoding Speech Perception from Non-Invasive Brain Recordings](https://www.nature.com/articles/s42256-023-00714-5) |Mingfei Chen, Jingyuan Li, Frenda Lin, Trung Le, Kun Su, Yang Zheng |
 | 1/26/2024     |[Large Language Models Struggle to Learn Long-Tail Knowledge]( https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf) |Jinlin Xiang, Jimin Kim, Xiulong Liu, Eunki Chung, Rahul Biswas |
 | 2/02/2024     |[Hopfield Networks is All You Needs](https://arxiv.org/abs/2008.02217) | Saba Heravi, James Hazelden, Ari Asarch, Yoonseo Orite, Kavya Balasubramanian|
 | 2/09/2024     |**Guest Speaker** [Jean-Rémi King](https://kingjr.github.io/) (École Normale Supérieure / Meta AI)<p align="center"><img src="https://kingjr.github.io/images/profile.png" width="150"></p> |     |
