@@ -9,6 +9,30 @@ UW students can enroll into designated courses: AMATH 500L or EE 598F to partici
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
 
+## 2024 Fall Schedule
+This quarter focuses on exploring and advancing research in three interconnected domains: AI, NeuroAI, and Neuroscience. We are passionate about understanding intelligence from both artificial and biological perspectives, bridging the gap between technology and science.
+We host a weekly seminar where we discuss cutting-edge research from these fields.
+We host a weekly seminar to discuss cutting-edge research and foster collaboration.  
+
+- **Time:** Every Friday, 11:00 AM - 12:00 PM PDT  
+- **Format:** Presentations and discussions led by domain experts or lab members  
+
+Domain Leads  
+- **AI:** Yang Zheng  
+- **NeuroAI:** Trung Le  
+- **Neuroscience:** Jimin Kim 
+
+| Date                    | Paper/Activity                                                                                                                                                                                                                                                                                                         | Student Presenter                                                                          |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 10/25/2024              | [Brain-to-text Decoding with Context-aware Neural Representations and Large Language Models](https://arxiv.org/abs/2411.10657)                                                                                                                                                                                         | Eric Martin, Jinlin Xiang, Mingfei Chen, Ted Zhong, Xiulong Liu, Yang Zheng, Yuan Gao      |
+| 11/01/2024              | [The FlyWire connectome: neuronal wiring diagram of a complete fly brain](https://www.nature.com/immersive/d42859-024-00053-4/index.html)                                                                                                                                                                              | Trung Le, Jingyuan Li, Hao Fang, James Hazelden, Keith Phou, Bailey Hall                   |
+| 11/08/2024 & 11/15/2024 | [Tell What You Hear From What You See - Video to Audio Generation Through Text](https://arxiv.org/abs/2411.05679)                                                                                                                                                                                                      | Jimin Kim, Saba Heravi, Victoria Pierce, Weijun Liu, Jiawen Liu, Deeksha Prabhu, Dongyi Yang |
+| 11/22/2024              | Guest Speaker [Sven Dorkenwald](https://alleninstitute.org/person/sven-dorkenwald/) (Allen Institute) <p align="center"><img src="https://alleninstitute.org/wp-content/uploads/2023/11/Sven_Dorkenwald_SQUARE_web.png" width="150"></p>                                                                               |                                                   |
+| 11/29/2024              | Thanksgiving Break                                                                                                                                                                                                                                                                                                     |                                                   |
+| 12/06/2024              | Guest Speaker [Xiulong Liu](https://dragonliu1995.github.io) (UW NeuroAI) <p align="center"><img src="https://dragonliu1995.github.io/assets/img/prof_pic.jpg" width="150"></p>                                                                                                                                        |                                              |
+| 12/06/2024              | Guest Speaker [Francis Robert Willett](https://www.braingate.org/team/frank-willet-2/) (Neural Prosthetics Translational Laboratory at Stanford University) <p align="center"><img src="https://profiles.stanford.edu/proxy/api/cap/profiles/173773/resources/profilephoto/350x350.1618622598846.jpg" width="150"></p> |                                              |
+
+
 ## 2024 Spring Schedule
 This quarter, we review impactful alternative architectures recently proposed in the NeuroAI literature. The seminar is held every Friday from 11:00 am - noon PDT in a hybrid manner.
 
