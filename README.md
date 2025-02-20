@@ -9,6 +9,25 @@ UW students can enroll into designated courses: AMATH 500L or EE 598F to partici
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
 
+## 2025 Winter Schedule
+This quarter, our lab is focusing on two Hackathon projects in AI and Neuroscience. Inspired by papers we've studied in previous quarters, these projects aim to bridge the gap between theoretical knowledge and practical implementation.
+
+We host a weekly seminar to discuss relevant research and share progress updates from each group.
+
+- **Time:** Every Friday, 11:00 AM - 12:00 PM PDT  
+- **Format:** Presentations and discussions led by members of each group
+
+Hackathon projects leads:
+
+- **AI:** Xiulong Liu, Yang Zheng  
+- **Neuroscience:** Trung Le, Jimin Kim 
+
+| Date                    | Paper/Activity                                                                                                                                                                                                                                                                                                         | Student Presenter                                                                          |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 01/24/2025 <br>01/31/2025              | Hackathon project brainstorming:<br>1. Benchmarking Performance of existing Audio-Visual LLMs <br>2. NeuroCodec                                                                                                                                                                  | All members      |
+| 02/07/2025              | 1. [AV LLM: VideoLLaMA 2 Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/pdf/2406.07476) <br>2. [High Fidelity Neural Audio Compression](https://arxiv.org/abs/2210.13438)                                                                                                                                                                                         | 1. Xiulong Liu, Yang Zheng, Zijun Cui, Jinlin Xiang, James Hazelden, Mingfei Chen, Hao Fang <br>2. Trung Le, Brian Deng, Saba Heravi, Jimin Kim, Bailey Hall, Jingyuan Li      |
+| 02/14/2025              | 1. [Thinking in Space: How Multimodal LLMs see, Remember, and Recall Spaces](https://arxiv.org/abs/2412.14171) <br>2. [Towards a “universal translator” for neural dynamics at single-cell, single-spike resolution](https://arxiv.org/pdf/2407.14668)                                                                                                                                                                                         | 1. Xiulong Liu, Yang Zheng, Zijun Cui, Jinlin Xiang, James Hazelden, Mingfei Chen, Hao Fang <br>2. Trung Le, Brian Deng, Saba Heravi, Jimin Kim, Bailey Hall, Jingyuan Li      |
+
 ## 2024 Fall Schedule
 This quarter focuses on exploring and advancing research in three interconnected domains: AI, NeuroAI, and Neuroscience. We are passionate about understanding intelligence from both artificial and biological perspectives, bridging the gap between technology and science.
 We host a weekly seminar where we discuss cutting-edge research from these fields.
