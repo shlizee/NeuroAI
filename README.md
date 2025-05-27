@@ -8,7 +8,24 @@ Meetings are currently held hybridly (Summer \& Fall 2020, Winter \& Spring \& F
 UW students can enroll into designated courses: AMATH 500L or EE 598F to participate in the seminarial activities.
 
 New: We will be positing some of the invited visitors talks in <a href="https://youtube.com/playlist?list=PLT7UXiHHksMtU6SowO5BcXADFr271rltT" target="new">NeuroAI YouTube playlist</a>.
+## 2025 Spring Schedule
+This quarter, our lab is focusing on reading papers related to our ongoing research in the areas of AI and NeuroAI. We host a weekly seminar where we discuss cutting-edge research from these fields.
 
+- **Time:** Every Friday, 11:00 AM - 12:00 PM PDT  
+- **Format:** Presentations and discussions led by members of each group
+
+Student Organizer: Xiulong Liu
+
+| Date                    | Paper/Activity                                                                                                                                                                                                                                                                                                         | Student Presenter                                                                          |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 04/18/2025 | 1. [Stabilizing brain-computer interfaces through alignment of latent dynamics](https://www.biorxiv.org/content/10.1101/2022.04.06.487388v2.full.pdf) <br> 2. [Improved Distribution Matching Distillation for Fast Image Synthesis](https://arxiv.org/abs/2405.14867) | 1. Victoria Pierce, Jimin Kim <br> 2. Yang Zheng, Jinlin Xiang, Bailey Hall|
+| 04/25/2025 | 1. [ConceptFusion: Open-set Multimodal 3D Mapping](https://arxiv.org/abs/2302.07241) <br> 2. [Dynamically Learning to Integrate in Recurrent Neural Networks](https://arxiv.org/abs/2503.18754) | 1. Mingfei Chen, Xiulong Liu, Zijun Cui <br> 2. James Hazelden, Saba Heravi, Vishya Adipudi |
+| 05/02/2025 | 1. [Few-shot Algorithms for Consistent Neural Decoding (FALCON) Benchmark](https://openreview.net/pdf?id=FN02v4nD8y) | 1. Hao Fang, Brian Deng, Aida Mustafanova |
+| 05/09/2025 | 1. [3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning](https://arxiv.org/abs/2411.17735) <br> 2. [Neural Encoding and Decoding at Scale](https://arxiv.org/abs/2504.08201) | 1. Zelin Xu, Brian Deng <br> 2. Saba Heravi, Jimin Kim |
+| 05/23/2025 | Guest Speaker: [Krishna Murthy Jatavallabhula](https://krrish94.github.io/) (Research Scientist at Meta) <p align="center"><img src="https://krrish94.github.io/assets/img/prof_pic.png" width="150"></p>
+
+
+  
 ## 2025 Winter Schedule
 This quarter, our lab is focusing on two Hackathon projects in AI and Neuroscience. Inspired by papers we've studied in previous quarters, these projects aim to bridge the gap between theoretical knowledge and practical implementation.
 
